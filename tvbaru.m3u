@@ -1,12 +1,376 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI HD" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="LocalKOZ",RCTI HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/11
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNC TV HD" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="LocalKOZ",MNC TV HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/12
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="Global TV HD" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="LocalKOZ",Global TV HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/13
+#EXTINF:-1 tvg-id="iNewsTV.MACAN" tvg-name="i News HD" tvg-logo="https://i.ibb.co/zxtL3Xv/inews-warkopteve.png" group-title="LocalKOZ",i News HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/14
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="Indosiar HD" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="LocalKOZ",Indosiar HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/15
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="LocalKOZ",SCTV HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/16
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="Trans 7 HD" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="LocalKOZ",Trans 7 HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/17
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="Trans TV HD" tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="LocalKOZ",Trans TV HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/18
+#EXTINF:-1 tvg-id="MetroTV.MACAN" tvg-name="Metro TV HD" tvg-logo="https://i.ibb.co/DwrF5JG/metrotv-warkopteve.png" group-title="LocalKOZ",Metro TV HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/19
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="Net TV HD" tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="LocalKOZ",Net TV HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/20
+#EXTINF:-1 tvg-id="CNNIndonesia.MACAN" tvg-name="CNN Indonesia HD" tvg-logo="https://i.ibb.co/5nsrQwK/cnn-indonesia-warkopteve.png" group-title="LocalKOZ",CNN Indonesia HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/21
+#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV HD" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="LocalKOZ",ANTV HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/22
+#EXTINF:-1 tvg-id="" tvg-name="TV One HD" tvg-logo="https://i.ibb.co/vhKN9rY/tv0ne-warkopteve.png" group-title="LocalKOZ",TV One HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/23
+#EXTINF:-1 tvg-id="BeritaSatu.MACAN" tvg-name="Berita Satu" tvg-logo="https://i.ibb.co/TBWdsVP/beritasatu-warkopteve.png" group-title="LocalKOZ",Berita Satu
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/24
+#EXTINF:-1 tvg-id="KompasTv.MACAN" tvg-name="Kompas TV HD" tvg-logo="https://i.ibb.co/0MT1qN7/kompastv-warkopteve.png" group-title="LocalKOZ",Kompas TV HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/25
+#EXTINF:-1 tvg-id="TVRI.MACAN" tvg-name="TVRI Nasional HD" tvg-logo="https://i.ibb.co/4Rj46G8/TVRI.png" group-title="LocalKOZ",TVRI Nasional HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/26
+#EXTINF:-1 tvg-id="JTV.MACAN" tvg-name="JTV" tvg-logo="http://server.warkop.xyz/img/jtv.png" group-title="LocalKOZ",JTV
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/47
+#EXTINF:-1 tvg-id="JakTV.MACAN" tvg-name="JakTV" tvg-logo="http://server.warkop.xyz/img/jaktv.png" group-title="LocalKOZ",JakTV
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/48
+#EXTINF:-1 tvg-id="" tvg-name="O Channel HD" tvg-logo="https://i.ibb.co/tXZT0Lz/Ochannel.png" group-title="LocalKOZ",O Channel HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/95
+#EXTINF:-1 tvg-id="" tvg-name="RTV HD" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="LocalKOZ",RTV HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/96
+#EXTINF:-1 tvg-id="DaaiTv.MACAN" tvg-name="Daai TV" tvg-logo="http://www.useetv.com/assets/images/channel/logo_daaitv_small1.png" group-title="LocalKOZ",Daai TV
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/178
+#EXTINF:-1 tvg-id="" tvg-name="Ruang Trampil" tvg-logo="http://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png" group-title="LocalKOZ",Ruang Trampil
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/180
+#EXTINF:-1 tvg-id="" tvg-name="Usee Photo" tvg-logo="http://www.useetv.com/assets/images/channel/logo_useephoto_small.png" group-title="LocalKOZ",Usee Photo
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/181
+#EXTINF:-1 tvg-id="" tvg-name="Usee Prime HD" tvg-logo="http://www.useetv.com/assets/images/channel/logo_useeprime_small1.png" group-title="LocalKOZ",Usee Prime HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/182
+#EXTINF:-1 tvg-id="" tvg-name="Indonesian Channel HD" tvg-logo="" group-title="LocalKOZ",Indonesian Channel HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/280
+#EXTINF:-1 tvg-id="" tvg-name="Bali TV HD" tvg-logo="http://www.useetv.com/assets/images/channel/logo_balitv_small1.png" group-title="LocalKOZ",Bali TV HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/284
+#EXTINF:-1 tvg-id="" tvg-name="TV Edukasi" tvg-logo="http://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png" group-title="LocalKOZ",TV Edukasi
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/285
+#EXTINF:-1 tvg-id="" tvg-name="Jowo TV" tvg-logo="https://warkopteve.xyz/img/jowotv.png" group-title="LocalKOZ",Jowo TV
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/386
+#EXTINF:-1 tvg-id="" tvg-name="Insert " tvg-logo="https://warkopteve.xyz/img/insert.png" group-title="LocalKOZ",Insert 
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/418
+#EXTINF:-1 tvg-id="Live1.id" tvg-name="Astro Supersport 1" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SportsKOZ",Astro Supersport 1
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/1
+#EXTINF:-1 tvg-id="Live2.id" tvg-name="Astro Supersport 2" tvg-logo="https://i.ibb.co/M27hPW9/JHDET.png" group-title="SportsKOZ",Astro Supersport 2
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/2
+#EXTINF:-1 tvg-id="Live3.id" tvg-name="Astro Supersport 3" tvg-logo="https://i.ibb.co/3yqCpYV/gkg.png" group-title="SportsKOZ",Astro Supersport 3
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/3
+#EXTINF:-1 tvg-id="Live4.id" tvg-name="Astro Supersport 4" tvg-logo="https://i.ibb.co/Qct3SqW/s4.png" group-title="SportsKOZ",Astro Supersport 4
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/4
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Supersport 5" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SportsKOZ",Astro Supersport 5
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/5
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Arena" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="SportsKOZ",Astro Arena
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/43
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1 premium" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SportsKOZ",Bein Sport 1 premium
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/44
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 2 premium" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SportsKOZ",Bein Sport 2 premium
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/45
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 3 premium" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SportsKOZ",Bein Sport 3 premium
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/46
+#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="Bein Sport 1  (id)" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="SportsKOZ",Bein Sport 1  (id)
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/55
+#EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="Bein Sport 2 (id)" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="SportsKOZ",Bein Sport 2 (id)
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/56
+#EXTINF:-1 tvg-id="UseeSports.MACAN" tvg-name="Usee Sport 1" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="SportsKOZ",Usee Sport 1
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/57
+#EXTINF:-1 tvg-id="UseeSports2.MACAN" tvg-name="Usee Sport 2" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="SportsKOZ",Usee Sport 2
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/58
+#EXTINF:-1 tvg-id="SPOTV.MACAN" tvg-name="SPO TV" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="SportsKOZ",SPO TV
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/59
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport Max 1 HD" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SportsKOZ",Beinsport Max 1 HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/113
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport Max 2 HD" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SportsKOZ",Beinsport Max 2 HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/114
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 1 HD" tvg-logo="https://i.ibb.co/02RRn5F/tyrty.png" group-title="SportsKOZ",Champions TV 1 HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/115
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 2 HD" tvg-logo="https://i.ibb.co/25f0KrC/HFRR.png" group-title="SportsKOZ",Champions TV 2 HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/116
+#EXTINF:-1 tvg-id="" tvg-name="Sony TEN 1 FHD" tvg-logo="https://i.ibb.co/s9DP18Z/Ten-HD.png" group-title="SportsKOZ",Sony TEN 1 FHD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/118
+#EXTINF:-1 tvg-id="" tvg-name="Sony TEN 2 FHD" tvg-logo="https://i.ibb.co/XbRfz8h/Ten2-HD.png" group-title="SportsKOZ",Sony TEN 2 FHD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/119
+#EXTINF:-1 tvg-id="" tvg-name="Sony TEN 3 FHD" tvg-logo="https://i.ibb.co/D5nRgcD/Ten3-HD.png" group-title="SportsKOZ",Sony TEN 3 FHD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/120
+#EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBA TV HD" tvg-logo="https://i.ibb.co/FBTFJGc/DR.png" group-title="SportsKOZ",NBA TV HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/133
+#EXTINF:-1 tvg-id="NBCGolf.MACAN" tvg-name="Golf Plus" tvg-logo="https://i.ibb.co/mHGzmxS/golf.png" group-title="SportsKOZ",Golf Plus
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/186
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena 2" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="SportsKOZ",Astro Arena 2
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/194
+#EXTINF:-1 tvg-id="" tvg-name="BeiNsport Max HD" tvg-logo="https://i.ibb.co/XzKCv6K/BEINMAX.png" group-title="SportsKOZ",BeiNsport Max HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/195
+#EXTINF:-1 tvg-id="eGG.MACAN" tvg-name="Egg Network" tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png" group-title="SportsKOZ",Egg Network
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/196
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport HD" tvg-logo="https://i.ibb.co/wrGxc4V/euu.png" group-title="SportsKOZ",Eurosport HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/202
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 3" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZZ3eJa1vaev71aUWQo9nM7siO2I=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-952d29.jpg" group-title="SportsKOZ",Champions TV 3
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/247
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="SportsKOZ",WWE Network
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/248
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport 1 HD" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SportsKOZ",Beinsport 1 HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/307
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport 2 HD" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SportsKOZ",Beinsport 2 HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/308
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport 3 HD" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SportsKOZ",Beinsport 3 HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/309
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport 4 HD" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SportsKOZ",Beinsport 4 HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/310
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport 5 HD" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SportsKOZ",Beinsport 5 HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/311
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport 6 HD" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SportsKOZ",Beinsport 6 HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/312
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport 7 HD" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SportsKOZ",Beinsport 7 HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/313
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six FHD" tvg-logo="https://i.ibb.co/T0NmxvH/six.png" group-title="SportsKOZ",Sony Six FHD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/391
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 4 HD" tvg-logo="https://i.ibb.co/j82qzQC/Ten-4-Tamil.png" group-title="SportsKOZ",Sony Ten 4 HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/485
+#EXTINF:-1 tvg-id="" tvg-name="UFC " tvg-logo="" group-title="SportsKOZ",UFC 
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/521
+#EXTINF:-1 tvg-id="" tvg-name="UFC-2" tvg-logo="" group-title="SportsKOZ",UFC-2
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/522
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV-2" tvg-logo="https://www.useetv.com/pimages/logo_spotv2_big.png" group-title="SportsKOZ",SPO TV-2
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/528
+#EXTINF:-1 tvg-id="" tvg-name="& Flix HD" tvg-logo="https://i.ibb.co/PGF0yfd/cth.png" group-title="MoviesKOZ",& Flix HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/27
+#EXTINF:-1 tvg-id="" tvg-name="& Prive HD" tvg-logo="https://i.ibb.co/DRCLfy8/wdas.png" group-title="MoviesKOZ",& Prive HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/28
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/L8gzpdy/str2.png" group-title="MoviesKOZ",Star Movies
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/29
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="Sony Pix" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png" group-title="MoviesKOZ",Sony Pix
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/30
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO FHD" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="MoviesKOZ",HBO FHD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/31
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBO Family FHD" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="MoviesKOZ",HBO Family FHD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/32
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="Cinemax FHD" tvg-logo="https://i.ibb.co/MP8HWsS/sfb.png" group-title="MoviesKOZ",Cinemax FHD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/33
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBO Signature FHD" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="MoviesKOZ",HBO Signature FHD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/41
+#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBO Hits FHD" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="MoviesKOZ",HBO Hits FHD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/42
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="MoviesKOZ",Thrill
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/49
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movie" tvg-logo="https://i.ibb.co/NFPsvqy/celestial-movies-warkopteve.png" group-title="MoviesKOZ",Celestial Movie
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/50
+#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="TVN Movies" tvg-logo="https://i.ibb.co/WWfn1fR/XCFX.png" group-title="MoviesKOZ",TVN Movies
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/51
+#EXTINF:-1 tvg-id="Galaxy.MACAN" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/dLsKfWF/wfg.png" group-title="MoviesKOZ",Galaxy
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/52
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://i.ibb.co/cJLLsn0/wstgf.png" group-title="MoviesKOZ",Warner
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/121
+#EXTINF:-1 tvg-id="ZeeTV.MACAN" tvg-name="Zee Bioskop" tvg-logo="https://i.ibb.co/V3mWChh/JJGF.png" group-title="MoviesKOZ",Zee Bioskop
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/150
+#EXTINF:-1 tvg-id="mycinemaasia.MACAN" tvg-name="My Cinema Asia" tvg-logo="https://i.imgur.com/m5Z3kJ2.png" group-title="MoviesKOZ",My Cinema Asia
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/157
+#EXTINF:-1 tvg-id="myfamilychannel.MACAN" tvg-name="My Family Channel" tvg-logo="https://i.imgur.com/UWYfFNM.png" group-title="MoviesKOZ",My Family Channel
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/158
+#EXTINF:-1 tvg-id="mycinema.MACAN" tvg-name="My Cinema" tvg-logo="https://i.imgur.com/432Y3wu.png" group-title="MoviesKOZ",My Cinema
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/159
+#EXTINF:-1 tvg-id="Paramount.MACAN" tvg-name="Paramount" tvg-logo="https://i.imgur.com/7B36dPh.png" group-title="MoviesKOZ",Paramount
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/161
+#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Hits" tvg-logo="https://i.ibb.co/0Jt92hK/sagd.png" group-title="MoviesKOZ",Hits
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/163
+#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="Hits Movies" tvg-logo="https://i.ibb.co/d7hB8xd/csw.png" group-title="MoviesKOZ",Hits Movies
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/164
+#EXTINF:-1 tvg-id="CinemaWorld.MACAN" tvg-name="Cinema World" tvg-logo="https://i.ibb.co/YhQFDQJ/xrg.png" group-title="MoviesKOZ",Cinema World
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/174
+#EXTINF:-1 tvg-id="BioskopIndonesia.MACAN" tvg-name="Bioskop Indonesia" tvg-logo="https://i.ibb.co/bRKCKtv/bioskop-id-warkop.png" group-title="MoviesKOZ",Bioskop Indonesia
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/175
+#EXTINF:-1 tvg-id="Flik" tvg-name="Flik" tvg-logo="https://i.ibb.co/mH15H33/flik.png" group-title="MoviesKOZ",Flik
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/176
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/qJW2FQG/hd.png" group-title="MoviesKOZ",Galaxy Premium
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/177
+#EXTINF:-1 tvg-id="IMC.MACAN" tvg-name="IMC" tvg-logo="https://i.ibb.co/0Jt92hK/sagd.png" group-title="MoviesKOZ",IMC
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/206
+#EXTINF:-1 tvg-id="" tvg-name="ShowCase Movies" tvg-logo="https://i.ibb.co/0BxDdg4/2show.png" group-title="MoviesKOZ",ShowCase Movies
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/240
+#EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="Star Chinese Movies" tvg-logo="https://i.ibb.co/VWzPJQ4/FxC.png" group-title="MoviesKOZ",Star Chinese Movies
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/241
+#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Channel" tvg-logo="https://www.useetv.com/pimages/logo_starchinesechannel_big.png" group-title="MoviesKOZ",Star Chinese Channel
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/359
+#EXTINF:-1 tvg-id="" tvg-name="And Picture" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="MoviesKOZ",And Picture
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/488
+#EXTINF:-1 tvg-id="" tvg-name="Color HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="MoviesKOZ",Color HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/489
+#EXTINF:-1 tvg-id="" tvg-name="Color Cineplex HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="MoviesKOZ",Color Cineplex HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/490
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="MoviesKOZ",Sony Max HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/491
+#EXTINF:-1 tvg-id="AlJazeera.MACAN" tvg-name="Aljazeera" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png" group-title="NewsKOZ",Aljazeera
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/61
+#EXTINF:-1 tvg-id="seatoday.MACAN" tvg-name="Sea Today" tvg-logo="http://www.useetv.com/assets/images/channel/logo_seatoday_small.png" group-title="NewsKOZ",Sea Today
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/62
+#EXTINF:-1 tvg-id="" tvg-name="ABC Australia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="NewsKOZ",ABC Australia
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/63
+#EXTINF:-1 tvg-id="DW.MACAN" tvg-name="DW TV English" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png" group-title="NewsKOZ",DW TV English
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/64
+#EXTINF:-1 tvg-id="Bloomberg.MACAN" tvg-name="TRT World" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title="NewsKOZ",TRT World
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/65
+#EXTINF:-1 tvg-id="" tvg-name="France24" tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png" group-title="NewsKOZ",France24
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/286
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png" group-title="NewsKOZ",Euronews
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/287
+#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_small.png" group-title="NewsKOZ",IDX
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/288
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="" group-title="NewsKOZ",CNBC Indonesia
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/493
+#EXTINF:-1 tvg-id="" tvg-name="Indi Kids" tvg-logo="http://server.warkop.xyz/img/indikids.png" group-title="KIdsKOZ",Indi Kids
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/88
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://i.ibb.co/GM9gh5V/horee-warkop.png" group-title="KIdsKOZ",Horee
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/89
+#EXTINF:-1 tvg-id="" tvg-name="My Kids" tvg-logo="https://i.ibb.co/48JTjNF/mkidz-warkop.png" group-title="KIdsKOZ",My Kids
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/92
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://i.ibb.co/NxbmGqj/animax.png" group-title="KIdsKOZ",Animax
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/93
+#EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/mGFXzSy/aniplus-warkop.png" group-title="KIdsKOZ",Aniplus
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/94
+#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nick Junior" tvg-logo="https://i.ibb.co/4m6tX5J/bgfg.png" group-title="KIdsKOZ",Nick Junior
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/123
+#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/tBt3pmW/boomerang-warkop.png" group-title="KIdsKOZ",Boomerang
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/125
+#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" group-title="KIdsKOZ",Nickelodeon
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/124
+#EXTINF:-1 tvg-id="DaVinci.id" tvg-name="Davinci" tvg-logo="https://i.ibb.co/bdH5RdG/davinci-warkop.png" group-title="KIdsKOZ",Davinci
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/149
+#EXTINF:-1 tvg-id="Lingua.MACAN" tvg-name="Lingua" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="KIdsKOZ",Lingua
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/184
+#EXTINF:-1 tvg-id="DuniaAnak.MACAN" tvg-name="Dunia Anak" tvg-logo="https://i.ibb.co/FmdKVbn/dunia-anak-warkop.png" group-title="KIdsKOZ",Dunia Anak
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/200
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/hHCyN9t/ig.png" group-title="KIdsKOZ",Cartoon Network
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/384
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="KIdsKOZ",Disney Channel
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/465
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="" group-title="KIdsKOZ",Disney Junior
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/466
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://i.ibb.co/tZKNWDd/Disney-xd-warkop.png" group-title="KIdsKOZ",Disney XD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/467
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://i.ibb.co/37ngmzn/bbbbbbbb.png" group-title="KIdsKOZ",Baby First
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/501
+#EXTINF:-1 tvg-id="BlueAntEntertainment.id" tvg-name="Blue Ant" tvg-logo="https://i.ibb.co/s2xvMWW/wrfd.png" group-title="EntertaimentKOZ",Blue Ant
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/53
+#EXTINF:-1 tvg-id="BlueAntExtreme.id" tvg-name="Blue Ant Extreme" tvg-logo="https://i.ibb.co/GdpP9FC/gsdgvxz.png" group-title="EntertaimentKOZ",Blue Ant Extreme
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/54
+#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.ibb.co/HCcdS4n/jngv.png" group-title="EntertaimentKOZ",AXN
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/74
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://i.ibb.co/kJwMHnm/dunia.png" group-title="EntertaimentKOZ",Dunia Lain
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/75
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="https://i.ibb.co/sHr5wg5/sgfz.png" group-title="EntertaimentKOZ",Arirang
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/76
+#EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="http://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png" group-title="EntertaimentKOZ",Chinese Drama
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/77
+#EXTINF:-1 tvg-id="" tvg-name="Waku Waku Japan" tvg-logo="http://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png" group-title="EntertaimentKOZ",Waku Waku Japan
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/79
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="https://i.ibb.co/Db5RLLg/hjtr.png" group-title="EntertaimentKOZ",Sony One
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/80
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-logo="http://www.useetv.com/assets/images/channel/logo_cctv4_small1.png" group-title="EntertaimentKOZ",CCTV 4
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/81
+#EXTINF:-1 tvg-id="" tvg-name="Kix" tvg-logo="https://i.ibb.co/8jRb2YX/xgf.png" group-title="EntertaimentKOZ",Kix
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/122
+#EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="Sony GEM" tvg-logo="https://i.ibb.co/6HF0DHS/svc.png" group-title="EntertaimentKOZ",Sony GEM
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/168
+#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="http://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="EntertaimentKOZ",Citra Drama
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/362
+#EXTINF:-1 tvg-id="" tvg-name="Citra Bioskop" tvg-logo="https://warkopteve.xyz/logo/citrabioskop.png" group-title="EntertaimentKOZ",Citra Bioskop
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/363
+#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="https://i.ibb.co/2sLJBHR/KBS.png" group-title="EntertaimentKOZ",KBS World
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/364
+#EXTINF:-1 tvg-id="" tvg-name="K Plus" tvg-logo="http://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="EntertaimentKOZ",K Plus
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/365
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="http://www.useetv.com/assets/images/channel/logo_nhkworld_small.png" group-title="EntertaimentKOZ",NHK World
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/366
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Premium" tvg-logo="http://www.useetv.com/assets/images/channel/logo_nhkworldpremium_small.png" group-title="EntertaimentKOZ",NHK World Premium
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/367
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="http://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="EntertaimentKOZ",TVN
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/369
+#EXTINF:-1 tvg-id="" tvg-name="Citra Entertaiment" tvg-logo="https://i.ibb.co/tB94HBL/center.png" group-title="EntertaimentKOZ",Citra Entertaiment
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/377
+#EXTINF:-1 tvg-id="" tvg-name="CTI Asia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="EntertaimentKOZ",CTI Asia
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/368
+#EXTINF:-1 tvg-id="" tvg-name="Smitsonian" tvg-logo="https://i.postimg.cc/RVfC96Dm/SMITHSONIAN.png" group-title="KnowledgeKOZ",Smitsonian
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/68
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png" group-title="KnowledgeKOZ",CGTN Documentary
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/71
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="http://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="KnowledgeKOZ",History
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/72
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel" tvg-logo="http://www.useetv.com/assets/images/channel/logo_outdoor_small.png" group-title="KnowledgeKOZ",Outdoor Channel
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/73
+#EXTINF:-1 tvg-id="TLC.MACAN" tvg-name="TLC" tvg-logo="http://server.warkop.xyz/img/tlc.png" group-title="KnowledgeKOZ",TLC
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/131
+#EXTINF:-1 tvg-id="Techstorm.MACAN" tvg-name="Techstorm" tvg-logo="" group-title="KnowledgeKOZ",Techstorm
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/166
+#EXTINF:-1 tvg-id="CrimeInvestigation.MACAN" tvg-name="Crime Investigation" tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="KnowledgeKOZ",Crime Investigation
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/183
+#EXTINF:-1 tvg-id="NationalGeographicWild.MACAN" tvg-name="National Geo Wild" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="KnowledgeKOZ",National Geo Wild
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/203
+#EXTINF:-1 tvg-id="NationalGeographicChannel.MACAN" tvg-name="National Geograpihc" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="KnowledgeKOZ",National Geograpihc
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/204
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Dicovery Channel" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="KnowledgeKOZ",Dicovery Channel
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/205
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/DyJ5C4Hc/animal-planet.jpg" group-title="KnowledgeKOZ",Animal Planet
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/261
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="http://fanc.tmsimg.com/assets/s52745_ll_h3_ab.png" group-title="KnowledgeKOZ",Love Nature 4K
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/262
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="http://fanc.tmsimg.com/assets/s53128_ll_h3_ab.png" group-title="KnowledgeKOZ",BBC Earth
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/332
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="KnowledgeKOZ",Discovery Turbo
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/486
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="KnowledgeKOZ",Discovery Science
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/487
+#EXTINF:-1 tvg-id="" tvg-name="MNC Shop" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mshop_small.png" group-title="LifestyleKOZ",MNC Shop
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/83
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV Midnight" tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="LifestyleKOZ",Fashion TV Midnight
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/85
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="LifestyleKOZ",HGTV
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/276
+#EXTINF:-1 tvg-id="" tvg-name="AFN" tvg-logo="https://i.ibb.co/7RPffnd/sjt.png" group-title="LifestyleKOZ",AFN
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/320
+#EXTINF:-1 tvg-id="" tvg-name="Cooking Channel" tvg-logo="https://pbs.twimg.com/profile_images/707608054225833984/0oB_sFGh_400x400.jpg" group-title="LifestyleKOZ",Cooking Channel
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/328
+#EXTINF:-1 tvg-id="RodjaTV.MACAN" tvg-name="Rodja TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png" group-title="ReligiKOZ",Rodja TV
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/225
+#EXTINF:-1 tvg-id="TawafTV.MACAN" tvg-name="Tawaf TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="ReligiKOZ",Tawaf TV
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/226
+#EXTINF:-1 tvg-id="MTATV.MACAN" tvg-name="MTA TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png" group-title="ReligiKOZ",MTA TV
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/227
+#EXTINF:-1 tvg-id="" tvg-name="MUI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png" group-title="ReligiKOZ",MUI TV
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/228
+#EXTINF:-1 tvg-id="" tvg-name="Al Quran Al Kareem" tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="ReligiKOZ",Al Quran Al Kareem
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/229
+#EXTINF:-1 tvg-id="" tvg-name="MQ TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_small1.png" group-title="ReligiKOZ",MQ TV
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/230
+#EXTINF:-1 tvg-id="" tvg-name="TV 9 NU" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png" group-title="ReligiKOZ",TV 9 NU
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/231
+#EXTINF:-1 tvg-id="" tvg-name="Muhammadiyah TV " tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png" group-title="ReligiKOZ",Muhammadiyah TV 
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/232
+#EXTINF:-1 tvg-id="" tvg-name="Ahsan TV" tvg-logo="" group-title="ReligiKOZ",Ahsan TV
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/468
+#EXTINF:-1 tvg-id="" tvg-name="Al Bahjah TV" tvg-logo="" group-title="ReligiKOZ",Al Bahjah TV
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/469
+#EXTINF:-1 tvg-id="" tvg-name="Muadz TV" tvg-logo="" group-title="ReligiKOZ",Muadz TV
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/470
+#EXTINF:-1 tvg-id="" tvg-name="Bina Madani TV" tvg-logo="" group-title="ReligiKOZ",Bina Madani TV
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/471
+#EXTINF:-1 tvg-id="" tvg-name="Ufa TV" tvg-logo="" group-title="ReligiKOZ",Ufa TV
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/472
+#EXTM3U
 #INDOSIAR#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-l5pav4E-_Tw/YFhrS4_T0uI/AAAAAAAAARw/n07hqnqkcxI0Ak3t1_LiUzeVuj4LysOEwCLcBGAsYHQ/s139/indosiar.png", INDOSIAR
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-l5pav4E-_Tw/YFhrS4_T0uI/AAAAAAAAARw/n07hqnqkcxI0Ak3t1_LiUzeVuj4LysOEwCLcBGAsYHQ/s139/indosiar.png", MIVO INDOSIAR
 http://edge.nim.mivo.tv/kqcsmbqna6yg/indosiar2_all/playlist.m3u8
 #SCTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-fOfwlllrCe8/YFhrRTe-V0I/AAAAAAAAARc/belQPLXIe-EW1L76wehwjmaa4bKmxfwIACLcBGAsYHQ/s139/Sctv.png", SCTV
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-fOfwlllrCe8/YFhrRTe-V0I/AAAAAAAAARc/belQPLXIe-EW1L76wehwjmaa4bKmxfwIACLcBGAsYHQ/s139/Sctv.png", MIVO SCTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/sctv2_all/playlist.m3u8
 #RCTI#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-HfIKea9AkeY/YFhrRN7sxYI/AAAAAAAAARY/wQYFvvShE7c0xdQGSE6SVKMA7kJdcxyowCLcBGAsYHQ/s1280/RCTI.png", RCTI
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-HfIKea9AkeY/YFhrRN7sxYI/AAAAAAAAARY/wQYFvvShE7c0xdQGSE6SVKMA7kJdcxyowCLcBGAsYHQ/s1280/RCTI.png", MIVO RCTI
 http://edge.nim.mivo.tv/kqcsmbqna6yg/rcti2_all/playlist.m3u8
 #TRANSTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-tQi4VockaIY/YFhrSHIqiXI/AAAAAAAAARo/Ohhau03j9u0syCQJRveRmMGYNgG-3rskACLcBGAsYHQ/s139/TransTV.png", TRANS TV
@@ -15,28 +379,28 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-y_NckrIqhII/YFhrR7IuMhI/AAAAAAAAARk/3I62I461g7ozp3-7tt_syw-iUjS5Ms6QQCLcBGAsYHQ/s139/Trans7.png", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #MNCTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-ZHi4ToNwrcY/YFhrQu1nMhI/AAAAAAAAARQ/fiXLeKt-FbslPEFJ2nSROo-3jiOvGc1NgCLcBGAsYHQ/s320/MncTV.png", MNCTV
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-ZHi4ToNwrcY/YFhrQu1nMhI/AAAAAAAAARQ/fiXLeKt-FbslPEFJ2nSROo-3jiOvGc1NgCLcBGAsYHQ/s320/MncTV.png", MIVO MNCTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/mnctv2_all/playlist.m3u8
 #GLOBALTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-F45GGWk05xc/YFhrPcDOYmI/AAAAAAAAARA/T2xCfXdH-ysqpeDMxm6hVH29fuhBfNB4gCLcBGAsYHQ/s135/GlobalTV.png", GLOBAL TV
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-F45GGWk05xc/YFhrPcDOYmI/AAAAAAAAARA/T2xCfXdH-ysqpeDMxm6hVH29fuhBfNB4gCLcBGAsYHQ/s135/GlobalTV.png", MIVO GLOBAL TV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/globaltv2_all/playlist.m3u8
 #INEWSTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-fU1gVnL4E8M/YFhrTA9OSVI/AAAAAAAAAR0/QIk1WlFQOmIS3Ri8OqYbTYXyUyUEhq2bACLcBGAsYHQ/s135/inewstv.png", InewsTV
 https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
 #TVONE#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-0JBXKL0qaOA/YFhrSqYvEpI/AAAAAAAAARs/bB8i8h4Em3wimUeQtPIDD-5EowSobwkngCLcBGAsYHQ/s139/TvOne.png", TVONE HD
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-0JBXKL0qaOA/YFhrSqYvEpI/AAAAAAAAARs/bB8i8h4Em3wimUeQtPIDD-5EowSobwkngCLcBGAsYHQ/s139/TvOne.png", MIVO TVONE HD
 http://edge.nim.mivo.tv/kqcsmbqna6yg/tvone2_all/playlist.m3u8
 #ANTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-VF6XjsQwoa0/YFhrPUp4xJI/AAAAAAAAARE/cuWX1NNgQncsxUZfXFyMzF8gXYsepKLdACLcBGAsYHQ/s139/AnTV.png", ANTV
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-VF6XjsQwoa0/YFhrPUp4xJI/AAAAAAAAARE/cuWX1NNgQncsxUZfXFyMzF8gXYsepKLdACLcBGAsYHQ/s139/AnTV.png", MIVO MIVO ANTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/antv2_all/playlist.m3u8
 #NETTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-q40Thh63Ayw/YFhrQo8QQOI/AAAAAAAAARU/syhg7pCsg3028ASbG3KpqjfyDFTJi287QCLcBGAsYHQ/s136/NetTV.png", NetTV
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-q40Thh63Ayw/YFhrQo8QQOI/AAAAAAAAARU/syhg7pCsg3028ASbG3KpqjfyDFTJi287QCLcBGAsYHQ/s136/NetTV.png", MIVO MIVO MIVO NetTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/nettv_all/playlist.m3u8
 #METROTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-vLZz4ZEBbUg/YFhrQA5Q0pI/AAAAAAAAARM/QRfasRbxgqs5g6n2IOjpSiSwuHPgRlYlACLcBGAsYHQ/s139/MetroTV.png", METRO TV HD
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-vLZz4ZEBbUg/YFhrQA5Q0pI/AAAAAAAAARM/QRfasRbxgqs5g6n2IOjpSiSwuHPgRlYlACLcBGAsYHQ/s139/MetroTV.png", MIVO METRO TV HD
 http://edge.nim.mivo.tv/kqcsmbqna6yg/metrotv2_all/playlist.m3u8
 #KOMPASTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-H4Q_xvTDY6A/YFhrPVHflGI/AAAAAAAAARI/36oMV4mn7w0nXw7v8ThMeh_fgBO4NrtbwCLcBGAsYHQ/s135/KompasTV.jpeg", KOMPAS TV
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-H4Q_xvTDY6A/YFhrPVHflGI/AAAAAAAAARI/36oMV4mn7w0nXw7v8ThMeh_fgBO4NrtbwCLcBGAsYHQ/s135/KompasTV.jpeg", MIVO KOMPAS TV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/kompastv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNN.id" tvg-name="CNN Indonesia" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/KYngMB0d/CNN-Indonesia.png" group-title="INDO",CNN Indonesia
