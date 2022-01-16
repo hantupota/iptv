@@ -1,5 +1,43 @@
 #EXTM3U
+#EXTINF: -1 group-title="MIVOKOZ" tvg-logo="https://1.bp.blogspot.com/-l5pav4E-_Tw/YFhrS4_T0uI/AAAAAAAAARw/n07hqnqkcxI0Ak3t1_LiUzeVuj4LysOEwCLcBGAsYHQ/s139/indosiar.png", MIVO INDOSIAR
+http://edge.nim.mivo.tv/kqcsmbqna6yg/indosiar2_all/playlist.m3u8
 
+#EXTINF: -1 group-title="MIVOKOZ" tvg-logo="https://1.bp.blogspot.com/-fOfwlllrCe8/YFhrRTe-V0I/AAAAAAAAARc/belQPLXIe-EW1L76wehwjmaa4bKmxfwIACLcBGAsYHQ/s139/Sctv.png", MIVO SCTV
+http://edge.nim.mivo.tv/kqcsmbqna6yg/sctv2_all/playlist.m3u8
+
+#EXTINF: -1 group-title="MIVOKOZ" tvg-logo="https://1.bp.blogspot.com/-HfIKea9AkeY/YFhrRN7sxYI/AAAAAAAAARY/wQYFvvShE7c0xdQGSE6SVKMA7kJdcxyowCLcBGAsYHQ/s1280/RCTI.png", MIVO RCTI
+http://edge.nim.mivo.tv/kqcsmbqna6yg/rcti2_all/playlist.m3u8
+
+#EXTINF: -1 group-title="MIVOKOZ" tvg-logo="https://1.bp.blogspot.com/-tQi4VockaIY/YFhrSHIqiXI/AAAAAAAAARo/Ohhau03j9u0syCQJRveRmMGYNgG-3rskACLcBGAsYHQ/s139/TransTV.png", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF: -1 group-title="MIVOKOZ" tvg-logo="https://1.bp.blogspot.com/-y_NckrIqhII/YFhrR7IuMhI/AAAAAAAAARk/3I62I461g7ozp3-7tt_syw-iUjS5Ms6QQCLcBGAsYHQ/s139/Trans7.png", TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF: -1 group-title="MIVOKOZ" tvg-logo="https://1.bp.blogspot.com/-ZHi4ToNwrcY/YFhrQu1nMhI/AAAAAAAAARQ/fiXLeKt-FbslPEFJ2nSROo-3jiOvGc1NgCLcBGAsYHQ/s320/MncTV.png", MIVO MNCTV
+http://edge.nim.mivo.tv/kqcsmbqna6yg/mnctv2_all/playlist.m3u8
+
+#EXTINF: -1 group-title="MIVOKOZ" tvg-logo="https://1.bp.blogspot.com/-F45GGWk05xc/YFhrPcDOYmI/AAAAAAAAARA/T2xCfXdH-ysqpeDMxm6hVH29fuhBfNB4gCLcBGAsYHQ/s135/GlobalTV.png", MIVO GLOBAL TV
+http://edge.nim.mivo.tv/kqcsmbqna6yg/globaltv2_all/playlist.m3u8
+
+#EXTINF: -1 group-title="MIVOKOZ" tvg-logo="https://1.bp.blogspot.com/-fU1gVnL4E8M/YFhrTA9OSVI/AAAAAAAAAR0/QIk1WlFQOmIS3Ri8OqYbTYXyUyUEhq2bACLcBGAsYHQ/s135/inewstv.png", InewsTV
+https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
+
+#EXTINF: -1 group-title="MIVOKOZ" tvg-logo="https://1.bp.blogspot.com/-0JBXKL0qaOA/YFhrSqYvEpI/AAAAAAAAARs/bB8i8h4Em3wimUeQtPIDD-5EowSobwkngCLcBGAsYHQ/s139/TvOne.png", MIVO TVONE HD
+http://edge.nim.mivo.tv/kqcsmbqna6yg/tvone2_all/playlist.m3u8
+
+#EXTINF: -1 group-title="MIVOKOZ" tvg-logo="https://1.bp.blogspot.com/-VF6XjsQwoa0/YFhrPUp4xJI/AAAAAAAAARE/cuWX1NNgQncsxUZfXFyMzF8gXYsepKLdACLcBGAsYHQ/s139/AnTV.png", MIVO MIVO ANTV
+http://edge.nim.mivo.tv/kqcsmbqna6yg/antv2_all/playlist.m3u8
+
+#EXTINF: -1 group-title="MIVOKOZ" tvg-logo="https://1.bp.blogspot.com/-q40Thh63Ayw/YFhrQo8QQOI/AAAAAAAAARU/syhg7pCsg3028ASbG3KpqjfyDFTJi287QCLcBGAsYHQ/s136/NetTV.png", MIVO MIVO MIVO NetTV
+http://edge.nim.mivo.tv/kqcsmbqna6yg/nettv_all/playlist.m3u8
+
+#EXTINF: -1 group-title="MIVOKOZ" tvg-logo="https://1.bp.blogspot.com/-vLZz4ZEBbUg/YFhrQA5Q0pI/AAAAAAAAARM/QRfasRbxgqs5g6n2IOjpSiSwuHPgRlYlACLcBGAsYHQ/s139/MetroTV.png", MIVO METRO TV HD
+http://edge.nim.mivo.tv/kqcsmbqna6yg/metrotv2_all/playlist.m3u8
+
+#EXTINF: -1 group-title="MIVOKOZ" tvg-logo="https://1.bp.blogspot.com/-H4Q_xvTDY6A/YFhrPVHflGI/AAAAAAAAARI/36oMV4mn7w0nXw7v8ThMeh_fgBO4NrtbwCLcBGAsYHQ/s135/KompasTV.jpeg", MIVO KOMPAS TV
+http://edge.nim.mivo.tv/kqcsmbqna6yg/kompastv_all/playlist.m3u8
+======================================================================================================================
 #EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI HD" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="LocalKOZ",RCTI HD
 http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/11
 #EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNC TV HD" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="LocalKOZ",MNC TV HD
@@ -362,46 +400,7 @@ http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/470
 http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/471
 #EXTINF:-1 tvg-id="" tvg-name="Ufa TV" tvg-logo="" group-title="ReligiKOZ",Ufa TV
 http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/472
-#EXTM3U
-#INDOSIAR#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-l5pav4E-_Tw/YFhrS4_T0uI/AAAAAAAAARw/n07hqnqkcxI0Ak3t1_LiUzeVuj4LysOEwCLcBGAsYHQ/s139/indosiar.png", MIVO INDOSIAR
-http://edge.nim.mivo.tv/kqcsmbqna6yg/indosiar2_all/playlist.m3u8
-#SCTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-fOfwlllrCe8/YFhrRTe-V0I/AAAAAAAAARc/belQPLXIe-EW1L76wehwjmaa4bKmxfwIACLcBGAsYHQ/s139/Sctv.png", MIVO SCTV
-http://edge.nim.mivo.tv/kqcsmbqna6yg/sctv2_all/playlist.m3u8
-#RCTI#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-HfIKea9AkeY/YFhrRN7sxYI/AAAAAAAAARY/wQYFvvShE7c0xdQGSE6SVKMA7kJdcxyowCLcBGAsYHQ/s1280/RCTI.png", MIVO RCTI
-http://edge.nim.mivo.tv/kqcsmbqna6yg/rcti2_all/playlist.m3u8
-#TRANSTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-tQi4VockaIY/YFhrSHIqiXI/AAAAAAAAARo/Ohhau03j9u0syCQJRveRmMGYNgG-3rskACLcBGAsYHQ/s139/TransTV.png", TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#TRANS7#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-y_NckrIqhII/YFhrR7IuMhI/AAAAAAAAARk/3I62I461g7ozp3-7tt_syw-iUjS5Ms6QQCLcBGAsYHQ/s139/Trans7.png", TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#MNCTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-ZHi4ToNwrcY/YFhrQu1nMhI/AAAAAAAAARQ/fiXLeKt-FbslPEFJ2nSROo-3jiOvGc1NgCLcBGAsYHQ/s320/MncTV.png", MIVO MNCTV
-http://edge.nim.mivo.tv/kqcsmbqna6yg/mnctv2_all/playlist.m3u8
-#GLOBALTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-F45GGWk05xc/YFhrPcDOYmI/AAAAAAAAARA/T2xCfXdH-ysqpeDMxm6hVH29fuhBfNB4gCLcBGAsYHQ/s135/GlobalTV.png", MIVO GLOBAL TV
-http://edge.nim.mivo.tv/kqcsmbqna6yg/globaltv2_all/playlist.m3u8
-#INEWSTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-fU1gVnL4E8M/YFhrTA9OSVI/AAAAAAAAAR0/QIk1WlFQOmIS3Ri8OqYbTYXyUyUEhq2bACLcBGAsYHQ/s135/inewstv.png", InewsTV
-https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
-#TVONE#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-0JBXKL0qaOA/YFhrSqYvEpI/AAAAAAAAARs/bB8i8h4Em3wimUeQtPIDD-5EowSobwkngCLcBGAsYHQ/s139/TvOne.png", MIVO TVONE HD
-http://edge.nim.mivo.tv/kqcsmbqna6yg/tvone2_all/playlist.m3u8
-#ANTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-VF6XjsQwoa0/YFhrPUp4xJI/AAAAAAAAARE/cuWX1NNgQncsxUZfXFyMzF8gXYsepKLdACLcBGAsYHQ/s139/AnTV.png", MIVO MIVO ANTV
-http://edge.nim.mivo.tv/kqcsmbqna6yg/antv2_all/playlist.m3u8
-#NETTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-q40Thh63Ayw/YFhrQo8QQOI/AAAAAAAAARU/syhg7pCsg3028ASbG3KpqjfyDFTJi287QCLcBGAsYHQ/s136/NetTV.png", MIVO MIVO MIVO NetTV
-http://edge.nim.mivo.tv/kqcsmbqna6yg/nettv_all/playlist.m3u8
-#METROTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-vLZz4ZEBbUg/YFhrQA5Q0pI/AAAAAAAAARM/QRfasRbxgqs5g6n2IOjpSiSwuHPgRlYlACLcBGAsYHQ/s139/MetroTV.png", MIVO METRO TV HD
-http://edge.nim.mivo.tv/kqcsmbqna6yg/metrotv2_all/playlist.m3u8
-#KOMPASTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-H4Q_xvTDY6A/YFhrPVHflGI/AAAAAAAAARI/36oMV4mn7w0nXw7v8ThMeh_fgBO4NrtbwCLcBGAsYHQ/s135/KompasTV.jpeg", MIVO KOMPAS TV
-http://edge.nim.mivo.tv/kqcsmbqna6yg/kompastv_all/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="CNN.id" tvg-name="CNN Indonesia" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/KYngMB0d/CNN-Indonesia.png" group-title="INDO",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
