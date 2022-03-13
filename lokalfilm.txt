@@ -4733,10 +4733,6 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" group-title="SHAREEXT@2022_CODAY_USEE",Rodja TV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=6c8349cc7260ae62e3b1396831a8398fdfdded94c48ea6229c48edefa9ec1c9f
 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml"
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" 
 <=============================== Indonesia Channel =================================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
