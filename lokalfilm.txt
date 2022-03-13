@@ -5,6 +5,13 @@
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="1440" max-conn="1" refresh="24"
 
 <----------------------------------- Indonesia Channel --------------------------------------->
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.postimg.cc/W1MS2bzc/Seek-Png-com-hbo-logo-png-2235525.png" group-title="SUKMATV",HBO
+https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
+https://on-load.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
 #EXTINF:-1 group-title="SUKMATV" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sctv.png", SCTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36"
 http://group2-swiftservesd-1.dens.tv/s/s03/index.m3u8
@@ -39,6 +46,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb5
 https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/index.m3u8
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 https://cdn-livetv-studio.metube.id/rcti.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 
 #EXTINF:-1 tvg-id="sctv" tvg-logo="https://i.postimg.cc/xjyMFz9v/sctv.png" group-title="SUKMATV",SCTV HD [Vidio]
 https://raw.githubusercontent.com/hantupota/hantupota.github.io/main/sctv.m3u8
@@ -48,6 +56,12 @@ http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-204
 https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/204-sctv
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
 http://gpc.my.id/vidio/sctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e5/SCTV_Logo.png" group-title="SUKMATV", SCTV SUKMATV
+http://akudandia.xyz/locs/akudandia-204.m3u8
+http://group2-swiftservesd-1.dens.tv/s/s03/01.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+http://45.126.83.51/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-id="sctv" tvg-logo="https://i.postimg.cc/xjyMFz9v/sctv.png" group-title="SUKMATV",SCTV [USEETV]
 #https://cmt.mb13.cyou/uni/ku/see/ucf.php?a=usee-sctv&b=14&c=sctv
