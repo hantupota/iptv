@@ -9,6 +9,22 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
 
 #EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="📺|ILHAM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png",Kids TV
+https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43LnnKR3/10460173-ico.png" group-title="📺|ILHAM",Miao Mi [VSN+]
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnMT1rYT/BABY-TV.png" group-title="📺|ILHAM",Baby TV [VSN+]
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+https://on-load.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+
 #EXTINF:-1 group-title="📺|ILHAM",Hip Hip horee (Kids)
 http://tvn.x10.bz/xchannel/master-4.m3u8
 
@@ -17,7 +33,40 @@ http://tvn.x10.bz/xchannel/master-5.m3u8
 #EXTINF:-1 group-title="📺|ILHAM",ZooMoo
 http://tvn.x10.bz/xchannel/master-25.m3u8
 #EXTINF:-1 group-title="📺|ILHAM" tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg", My Kidz HD
-http://rr.dens.tv/h/h191/index.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GptkPXVZ/bisnet-kids-hd.png" group-title="📺|ILHAM", Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=435bb823afb75f32a891cc235dda1210&key=aebc4002b1d9a18388f7bab70c0a7cc8
+#EXTINF:-1 tvg-id="615" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" group-title="📺|ILHAM",CARTOON NETWORK
+http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f609722db16e34f7f808179d29ba1b10&key=f8b715f81b33aeb2e5680263fe31d904
+#EXTINF:-1 tvg-id="616" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png" group-title="📺|ILHAM",NICKELODEON
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3e4bcc300dc5f243ba5d5b4efca9fd10&key=364bdb669b85e49ef93d0de8b9f31cf3
+#EXTINF:-1 tvg-id="617" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickjr.png" group-title="📺|ILHAM",NICK JR
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
+#EXTINF:-1 tvg-id="612" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TA-DAA!.png" group-title="📺|ILHAM",TA-DAA!
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroCeria" group-title="📺|ILHAM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png" ch-number="611",611 Astro Ceria AstGO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="📺|ILHAM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg",Nick Jr Asia
+https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/o5JrHaN.png" group-title="📺|ILHAM",SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
@@ -48,6 +97,7 @@ https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/665-rcti
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="📺|ILHAM",RCTI+
+https://lnk.ec/RCTIplus?shareext.m3u8
 https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/index.m3u8
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 https://cdn-livetv-studio.metube.id/rcti.m3u8
@@ -111,6 +161,7 @@ http://rr2.dens.tv/s/s12/index10.m3u8
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-name="mnctv" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="📺|ILHAM",MNC TV+
+https://lnk.ec/MNCTVplus?shareext.m3u8
 https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
@@ -121,15 +172,18 @@ https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-ID="GTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://w1.pngwing.com/pngs/396/342/png-transparent-tv-logo-gtv-television-television-channel-wikipedia-logo-logo-tv-media-nusantara-citra.png" group-title="📺|ILHAM",GLOBAL TV+ 
+https://lnk.ec/GTVplus?shareext.m3u8
 https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 https://rcti-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/ydRJrj3WJ-ycS2KJw19CZn6XQkg=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" tvg-id="MetroTV.id" tvg-name"MetroTV.id" group-title="📺|ILHAM",[CODAY] Metro TV _VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/0qrOZySm_gYRMK5VNsh9RKQAzzc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-a3cbc6.jpg" tvg-id="KompasTV.id" tvg-name"KompasTV.id" group-title="📺|ILHAM",[CODAY] Kompas Sepekan _VIDIO
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/0qrOZySm_gYRMK5VNsh9RKQAzzc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-a3cbc6.jpg" tvg-id="KompasTV.id" tvg-name"KompasTV.id" group-title="📺|ILHAM",[CODAY] Kompas_VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559446503011668def857b1c03bafabba51
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="📺|ILHAM",Garuda tv
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
 
 // HIBURAN
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] MUSICA _VIDIO" group-title="📺|ILHAM",[CODAY] MUSICA _VIDIO
