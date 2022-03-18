@@ -1,8 +1,23 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U x-url-tvg="http://tvku.live:8888/xmltv.php?username=epg&password=epg" refresh="1440" max-conn="1" refresh="24"
+<?xml version="1.0" encoding="UTF-8" ?>
+<html>
+<head>
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
 
 #EXTM3U
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/o5JrHaN.png" group-title="📺|ILHAM",SCTV
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+http://nonton.wap.sh/id/009.m3u8
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/o5JrHaN.png" group-title="📺|ILHAM",SCTV VIDIO 
+http://tvn.x10.bz/xchannel/master-24.m3u8
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/o5JrHaN.png" group-title="📺|ILHAM",SCTV DENSTV
+http://rr2.dens.tv/s/s03/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -11,15 +26,20 @@
 https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
 https://on-load.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="📺|ILHAM", RCTISUKMA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="RCTI.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/lGMPLxim.jpg?1" group-title="📺|ILHAM",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_665_480p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/live/665/master.m3u8
 http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-665
 https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/665-rcti
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="📺|ILHAM",RCTI+
+https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/index.m3u8
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+https://cdn-livetv-studio.metube.id/rcti.m3u8
 
 //VIDIO by @RiyanCoday
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/FpGpG_N1noubGtSI38Ek1bo0pf8=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" tvg-id="ANTV.id" tvg-name"ANTV.id" group-title="📺|ILHAM",[CODAY] ANTV _VIDIONA
@@ -5699,4 +5719,5 @@ https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #EXTINF:-1 tvg-ID="jaktv" group-title="Local Channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandung_tv_id.png",Bandung Tv
 https://liveanevia.mncnow.id:443/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
-</body></html>
+</head>
+</html>
