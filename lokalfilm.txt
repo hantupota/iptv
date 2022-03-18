@@ -9,6 +9,16 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
 
 #EXTM3U
+#EXTINF:-1 group-title="📺|ILHAM",Hip Hip horee (Kids)
+http://tvn.x10.bz/xchannel/master-4.m3u8
+
+#EXTINF:-1 group-title="📺|ILHAM",Horee (Kids)
+http://tvn.x10.bz/xchannel/master-5.m3u8
+#EXTINF:-1 group-title="📺|ILHAM",ZooMoo
+http://tvn.x10.bz/xchannel/master-25.m3u8
+#EXTINF:-1 group-title="📺|ILHAM" tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg", My Kidz HD
+http://rr.dens.tv/h/h191/index.m3u8
+
 #EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/o5JrHaN.png" group-title="📺|ILHAM",SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 http://nonton.wap.sh/id/009.m3u8
@@ -17,6 +27,7 @@ https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3
 #EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/o5JrHaN.png" group-title="📺|ILHAM",SCTV VIDIO 
 http://tvn.x10.bz/xchannel/master-24.m3u8
 #EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/o5JrHaN.png" group-title="📺|ILHAM",SCTV DENSTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 http://rr2.dens.tv/s/s03/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -50,6 +61,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 https://znjjprwzgeyyp.vidio.com/live/733/master.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/UYPnuzl.png" group-title="📺|ILHAM",TRANS TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
 http://rr2.dens.tv/s/s05/index.m3u8
 http://nonton.wap.sh/id/003.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
@@ -63,17 +75,21 @@ http://rr.dens.tv/h/h11/index.m3u8
 http://nonton.wap.sh/id/004.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="NET.id" tvg-name="NET TV" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-logo="https://i.imgur.com/Ookha61.png" group-title="📺|ILHAM",NetTV HD
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-ID="NET.id" tvg-name="NET TV" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-logo="https://i.imgur.com/Ookha61.png" group-title="📺|ILHAM",Net._USEETV 
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f0268ef7e5a44f541a7cbde7626ef57566
+http://rr2.dens.tv/s/s08/index10.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/ydRJrj3WJ-ycS2KJw19CZn6XQkg=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" tvg-id="MetroTV.id" tvg-name"MetroTV.id" group-title="📺|ILHAM",[CODAY] Metro TV _VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/0qrOZySm_gYRMK5VNsh9RKQAzzc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-a3cbc6.jpg" tvg-id="KompasTV.id" tvg-name"KompasTV.id" group-title="📺|ILHAM",[CODAY] Kompas Sepekan _VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559446503011668def857b1c03bafabba51
 
-
-CODAY WAS HERE!
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/wxGl9W6CSExkpP07PKDkY2xyZKg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6711/mytv-tv-stream-a36d9f.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] TBA _VIDIO" group-title="📺|ILHAM",[CODAY] TBA _VIDIO
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be446503011668def857b1c03bafabba51
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/uVFSoTESS5e1aejpa34oI2a8a_g=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6166/oshop-tv-stream-c16bc3.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] OShop _VIDIO" group-title="📺|ILHAM",[CODAY] OShop _VIDIO
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb089446503011668def857b1c03bafabba51
 
 // HIBURAN
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] MUSICA _VIDIO" group-title="📺|ILHAM",[CODAY] MUSICA _VIDIO
