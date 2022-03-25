@@ -15,9 +15,7 @@
 
 #EXTM3U
 ===========================VIDIO+USEETV===========================
-
-http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=sctv&bandwidth=default&sync=0
-#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/o5JrHaN.png" group-title="💚| HANIFAH INDONESIA",SCTV DENSTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/HzZeW6tm.jpg?1" group-title="💚| HANIFAH INDONESIA",SCTV DENSTV
 http://group2-swiftservesd-1.dens.tv/s/s03/index.m3u8
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 http://nonton.wap.sh/id/009.m3u8
