@@ -437,6 +437,12 @@ http://tvn.x10.bz/xchannel/master-22.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/lXR0RNo_sOsVOxIs_3bKHkY9KyY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" tvg-name"[CODAY] Titipo Titipo _VIDIO" group-title="📺|ILHAM KIDS",[CODAY] MENTARI_VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
 
+#EXTINF:-1 tvg-id="Dreamworks.id" group-title="📺|ILHAM KIDS" tvg-logo="https://www.useetv.com/pimages/logo_dreamworks_small1.png?v=2.0.0.13",Dreamworks
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=dreamworks&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-id="DaVinci.MACAN" group-title="📺|ILHAM KIDS" tvg-logo="https://www.useetv.com/pimages/logo_davinci_small1.png?v=2.0.0.13",Da Vinci
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=davinci&bandwidth=default&sync=0
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="TEST" group-title="📺|ILHAM KIDS",Cartoon Network 
@@ -671,9 +677,6 @@ http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=zbioskop&bandwidth=defa
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/cinemaworld.png" group-title="🐴|AHANIF MOVIE",Cinema World
 https://on-load.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
-#EXTINF:-1 tvg-id="Cinema World HD" group-title="🐴|AHANIF MOVIE" tvg-logo="https://www.useetv.com/pimages/logo_cinemaworld_small.png",Cinema World_USEETV
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR59m885muvEnOMqO1Fgxtts/m3u8
-
 #EXTINF:-1 tvg-id="TVNPremiumIndonesia.kr" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://thumbor.prod.vid.id/TjMKXqjCDGF1uqycTxG-Os7E87E=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png" group-title="🐴|AHANIF MOVIE", TVN 
 http://tvn.x10.bz/xchannel/master-16.m3u8
 
@@ -707,6 +710,8 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 #EXTINF:0 tvg-id="HistoryAsia.us" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/history.png" group-title="🙏|KNOWLEDGE",History
 https://on-load.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
+#EXTINF:-1 tvg-id="HistoryAsia.us" group-title="🙏|KNOWLEDGE" tvg-logo="https://www.useetv.com/pimages/logo_history_small.png?v=2.0.0.13",History_USEETV
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=history&bandwidth=default&sync=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -719,6 +724,8 @@ https://on-load.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #EXTINF:0 tvg-id="DiscoveryChannelSoutheastAsia.us" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/discoverychannel.png" group-title="🙏|KNOWLEDGE",Discovery
 https://on-load.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
+#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.us" group-title="🙏|KNOWLEDGE" tvg-logo="https://www.useetv.com/pimages/logo_discovery_small.png?v=2.0.0.13",Discovery Channel_USEETV
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=disco&bandwidth=default&sync=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -737,6 +744,8 @@ https://on-load.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #EXTINF:0 tvg-id="NationalGeographicAsia.us" tvg-name="Nat Geo" tvg-logo="http://dusktill.masuk.web.id/img/ngc.png" group-title="🙏|KNOWLEDGE",Nat Geo Channel
 https://on-load.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
+#EXTINF:-1 tvg-id="NationalGeographicAsia.us" group-title="🙏|KNOWLEDGE" tvg-logo="https://www.useetv.com/pimages/logo_natgeo_small.png?v=2.0.0.13",National Geographic_USEETV
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=natgeo&bandwidth=default&sync=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
