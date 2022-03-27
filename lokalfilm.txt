@@ -15,6 +15,9 @@
 
 #EXTM3U
 ===========================VIDIO+USEETV===========================
+#EXTINF:-1 tvg-id="DuniaAnak.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/lY31UPJ.png" group-title="💚| HANIFAH INDONESIA",Dunia anak_USEETV
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=duniaanak&bandwidth=default&sync=0
+
 #EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/HzZeW6tm.jpg?1" group-title="💚| HANIFAH INDONESIA",SCTV DENSTV
 http://group2-swiftservesd-1.dens.tv/s/s03/index.m3u8
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
@@ -417,7 +420,7 @@ http://tvn.x10.bz/xchannel/master-5.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/lfyNbk-BG70u8ahFpO9I0HhV3bM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6397/d422cd.png" group-title="📺|ILHAM KIDS", Horee_USEETV
 http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=horee&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/lfyNbk-BG70u8ahFpO9I0HhV3bM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6397/d422cd.png" group-title="📺|ILHAM KIDS", Dunia anak_USEETV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hantupota/iptv/main/myson.jpg" group-title="📺|ILHAM KIDS", Dunia anak_USEETV
 http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=duniaanak&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/vQdbJZqHtzPPXckjO0Hy8yy-3_0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png" group-title="📺|ILHAM KIDS", ZooMoo
