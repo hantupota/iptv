@@ -527,6 +527,11 @@ http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="📺|ILHAM KIDS", 3ABN KIDS TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
+#EXTINF:-1 tvg-id="611" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="📺|ILHAM KIDS",ASTRO CERIA ASTRO GO
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+
 ===========================MOVEIKU===========================
 #EXTINF:-1 tvg-id="Flix.id" group-title="🐴|AHANIF MOVIE" tvg-logo="https://www.useetv.com/pimages/logo_flik_small1.png?v=2.0.0.13",Flik_USEETV
 http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=flik&bandwidth=default&sync=0
