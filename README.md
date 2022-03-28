@@ -1,58 +1,64 @@
 # iptv
 # allowlist
-*.verspective.net
+*.phncdn.com
 
-*.dens.tv
+*.t8cdn.com
 
-*.web.id
+*.tube8.com
 
-*.my.id
+*.akamaized.net
 
-*.cloudflare.com
+*.cloudfront.net
 
-*.cdnroute.io
+*.userscloud.com
 
-*.banking.trading
-
-*.iq-option.com
-
-*.iq-options.com
-
-*.iqoptions.co
-
-*.iqoption.co.th
-
-*.broker-iqoption.com
-
-*.iqbroker.com
-
-*.cdnpub.info
-
-*.githubassets.com
-
-*.github.com
-
-*.amazonaws.com
-
-*.useetv.com
-
-*.bitmovin.com
-
-*.rctiplus.id
-
-*.xyz
-
-*.superzap.xyz
-
-*.whatsapp.com
-
-*.whatsapp.net
-
-*.mncnow.id
+*.iqoption.com
 
 *.lastpass.com
 
-*.iqoption.com
+*.mncnow.id
+
+*.xyz
+
+*.rctiplus.id
+
+*.bitmovin.com
+
+*.useetv.com
+
+*.amazonaws.com
+
+*.github.com
+
+*.githubassets.com
+
+*.cdnpub.info
+
+*.iqbroker.com
+
+*.broker-iqoption.com
+
+*.iqoption.co.th
+
+*.iqoptions.co
+
+*.iq-options.com
+
+*.iq-option.com
+
+*.banking.trading
+
+*.cdnroute.io
+
+*.cloudflare.com
+
+*.my.id
+
+*.web.id
+
+*.dens.tv
+
+*.verspective.net
 
 # denylist
 *.oppomobile.com
@@ -70,4 +76,6 @@
 *.shopee.io
 
 *.sto.shopee.io
+
+*.palmplaystore.com
 
