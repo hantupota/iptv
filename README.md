@@ -65,6 +65,7 @@
 *.verspective.net
 
 # denylist
+*.garena.com qq.com #Block PUBG Mobile Game free fire# 
 *.oppomobile.com
 
 *.play.google.com
