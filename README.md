@@ -1,5 +1,9 @@
 # iptv
 # allowlist
+*.whatsapp.com
+
+*.whatsapp.net
+
 *.phncdn.com
 
 *.t8cdn.com
