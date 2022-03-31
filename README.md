@@ -1,4 +1,4 @@
-# iptv
+# iptv https://my.nextdns.io
 # allowlist
 *.whatsapp.com
 
