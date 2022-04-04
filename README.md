@@ -1,7 +1,44 @@
-# aplikasiku
-# iptv https://my.nextdns.io
-# allowlist
-*.whatsapp.com
+# a crossplatform free iptv/stream player
+
+![](https://raw.githubusercontent.com/hantupota/iptv/main/ivptv.webp)
+**[https://my.nextdns.io](https://my.nextdns.io "https://my.nextdns.io")**
+# denylist
+*.internetdownloadmanager.com
+
+*.palmplaystore.com
+
+*.sto.shopee.io
+
+*.shopee.io
+
+*.shopeemobile.com
+
+*.shopee.co.id
+
+*.tokopedia.net
+
+*.tokopedia.com
+
+*.play.google.com
+
+*.oppomobile.com
+
+*.qq.com
+
+*.ff.garena.com
+
+*.garena.com
+
+## allowlist
+*.mediafire.com
+
+*.uploadrar.com
+
+*.up-load.io
+
+*.katfile.com
+
+*.turbo.to
 
 *.whatsapp.net
 
@@ -14,8 +51,6 @@
 *.akamaized.net
 
 *.cloudfront.net
-
-*.userscloud.com
 
 *.iqoption.com
 
@@ -55,8 +90,6 @@
 
 *.cdnroute.io
 
-*.cloudflare.com
-
 *.my.id
 
 *.web.id
@@ -65,23 +98,3 @@
 
 *.verspective.net
 
-# denylist
-*.garena.com, ff.garena.com, qq.com # Block PUBG Mobile Game free fire
-
-*.oppomobile.com
-
-*.play.google.com
-
-*.tokopedia.com
-
-*.tokopedia.net
-
-*.shopee.co.id
-
-*.shopeemobile.com
-
-*.shopee.io
-
-*.sto.shopee.io
-
-*.palmplaystore.com
