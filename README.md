@@ -3,6 +3,8 @@
 ![](https://raw.githubusercontent.com/hantupota/iptv/main/ivptv.webp)
 **[https://my.nextdns.io](https://my.nextdns.io "https://my.nextdns.io")**
 # denylist
+*.lazada.co.id
+
 *.internetdownloadmanager.com
 
 *.palmplaystore.com
@@ -30,6 +32,13 @@
 *.garena.com
 
 ## allowlist
+
+*.zippyshare.com
+
+*.mega.co.nz
+
+*.mega.nz
+
 *.mediafire.com
 
 *.uploadrar.com
