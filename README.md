@@ -2,6 +2,8 @@
 
 ![](https://raw.githubusercontent.com/hantupota/iptv/main/ivptv.webp)
 **[https://my.nextdns.io](https://my.nextdns.io "https://my.nextdns.io")**
+**[https://github.com/EnergizedProtection/block](github.com/EnergizedProtection/block "github.com/EnergizedProtection/block")** ad.porn.malware blocking
+
 # denylist
 *.lazada.co.id
 
