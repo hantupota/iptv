@@ -15,6 +15,16 @@
 
 #EXTM3U
 ===========================VIDIO+USEETV===========================
+
+#EXTINF:-1 tvg-id="GTV.id" group-title="💚| HANIFAH INDONESIA",GTV (720p)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV.id" group-title="💚| HANIFAH INDONESIA",MNCTV (720p)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
+
+
 #EXTINF:-1 tvg-id="DuniaAnak.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/lY31UPJ.png" group-title="💚| HANIFAH INDONESIA",Dunia anak_USEETV
 http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=duniaanak&bandwidth=default&sync=0
 
