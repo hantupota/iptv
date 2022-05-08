@@ -15,6 +15,14 @@
 
 #EXTM3U
 ===========================VIDIO+USEETV===========================
+#EXTINF:-1 group-title="💚| HANIFAH INDONESIA" tvg-logo="https://i.imgur.com/aESqPMs.png" tvg-id="", TravelXP 4K HDR
+https://deltatesttatasky.akamaized.net/out/i/308733.m3u8
+#EXTINF:-1 group-title="💚| HANIFAH INDONESIA" tvg-logo="https://i.imgur.com/oYYncnc.png" tvg-id="", Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
+#EXTINF:-1 group-title="💚| HANIFAH INDONESIA" tvg-logo="https://i.imgur.com/C9UDwli.png" tvg-id="", Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
+#EXTINF:-1 group-title="💚| HANIFAH INDONESIA" tvg-logo="https://i.imgur.com/ufQEuaF.png" tvg-id="", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 
 
 #EXTINF:-1 tvg-id="DuniaAnak.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/lY31UPJ.png" group-title="💚| HANIFAH INDONESIA",Dunia anak_USEETV
@@ -795,91 +803,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 =============================https://gitlab.com=============================
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",ANTV DIGITAL T2
-http://202.150.172.34:4000/play/antvdigitalt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",BADAR TV T2
-http://202.150.172.34:4000/play/badartvt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",BBSTV JAKARTA T2
-http://202.150.172.34:4000/play/bbstvjktt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",BNTV T2
-http://202.150.172.34:4000/play/bntvt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",CNBC INDONESIA HD T2
-http://202.150.172.34:4000/play/cnbcindonesiahdt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",CNN INDONESIA HD T2
-http://202.150.172.34:4000/play/cnnindonesiahdt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",DAAITV T2
-http://202.150.172.34:4000/play/daaitvt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",ELSHINTA TV T2
-http://202.150.172.34:4000/play/elshintatvt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",GRAMEDIA TV T2
-http://202.150.172.34:4000/play/gramediatvt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",GTV T2
-http://202.150.172.34:4000/play/gtvt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",INDOSIAR HD T2
-http://202.150.172.34:4000/play/indosiarhdt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",INSPIRA TV T2
-http://202.150.172.34:4000/play/inspiratvt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",JAKTV T2
-http://202.150.172.34:4000/play/jaktvt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",JPMTV T2
-http://202.150.172.34:4000/play/jpmtvt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",KOMPAS TV T2
-http://202.150.172.34:4000/play/kompastvt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",KTV T2
-http://202.150.172.34:4000/play/ktvt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",MAGNA CHANNEL T2
-http://202.150.172.34:4000/play/magnachannelt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",MENTARITV HD T2
-http://202.150.172.34:4000/play/mentaritvhdt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",METRO TV T2
-http://202.150.172.34:4000/play/metrotvt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",METROTV HD T2
-http://202.150.172.34:4000/play/metrotvhdt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",MNCTV T2
-http://202.150.172.34:4000/play/mnctvt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",MYTV T2
-http://202.150.172.34:4000/play/mytvt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",NET. T2
-http://202.150.172.34:4000/play/nett2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",NUSANTARATV T2
-http://202.150.172.34:4000/play/nusantaratvt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",OCHANNEL HD T2
-http://202.150.172.34:4000/play/ochannelhdt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",RCTI T2
-http://202.150.172.34:4000/play/rctit2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",RTV 1
-http://202.150.172.34:4000/play/rtv1
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",RTV 2
-http://202.150.172.34:4000/play/rtv2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",SCTV HD T2
-http://202.150.172.34:4000/play/sctvhdt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",SPORT ONE T2
-http://202.150.172.34:4000/play/sportonet2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",Smile TV T2
-http://202.150.172.34:4000/play/smiletv
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",TEMPO TV T2
-http://202.150.172.34:4000/play/tempotvt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",TRANS 7 HD T2
-http://202.150.172.34:4000/play/trans7hdt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",TRANS TV HD T2
-http://202.150.172.34:4000/play/transtvhdt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",TVMU T2
-http://202.150.172.34:4000/play/tvmut2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",TVONE DIGITAL T2
-http://202.150.172.34:4000/play/tvonedigitalt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",TVRI 3 T2
-http://202.150.172.34:4000/play/tvri3t2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",TVRI DKI T2
-http://202.150.172.34:4000/play/tvridkit2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",TVRI NASIONAL T2
-http://202.150.172.34:4000/play/tvrinasionalt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",TVRI SPORT HD T2
-http://202.150.172.34:4000/play/tvrisporthdt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",UGTV T2
-http://202.150.172.34:4000/play/ugtvt2
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/img/i.imgur.com/IvUSO6Zm.png?1" group-title="💚| HANIFAH INDONESIA",iNEWS T2
-http://202.150.172.34:4000/play/inewst2
-=====================================================================================================================================================
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS 7 =>1" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="Lokal",TRANS 7 HD
