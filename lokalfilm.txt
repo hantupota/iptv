@@ -6,28 +6,13 @@
 <title>SUKMA TV</title>
  </head>
  <body>
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
+EXTM3U  
+#EXTM3U# x-tvg-url="http://iptv12k.com:35461/xmltv.php?username=8022022301&password=468985&type=dreambox&output=mpegts",
+#EXTM3U# x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml", 
+#EXTM3U# x-tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml", 
+#EXTM3U# x-tvg-url="https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600"
 
-#EXTM3U
-===========================VIDIO+USEETV===========================
-#EXTINF:-1 group-title="💚| HANIFAH INDONESIA" tvg-logo="https://i.imgur.com/aESqPMs.png" tvg-id="", TravelXP 4K HDR
-https://deltatesttatasky.akamaized.net/out/i/308733.m3u8
-#EXTINF:-1 group-title="💚| HANIFAH INDONESIA" tvg-logo="https://i.imgur.com/oYYncnc.png" tvg-id="", Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
-#EXTINF:-1 group-title="💚| HANIFAH INDONESIA" tvg-logo="https://i.imgur.com/C9UDwli.png" tvg-id="", Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
-#EXTINF:-1 group-title="💚| HANIFAH INDONESIA" tvg-logo="https://i.imgur.com/ufQEuaF.png" tvg-id="", Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
-
-
-#EXTINF:-1 tvg-id="DuniaAnak.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/lY31UPJ.png" group-title="💚| HANIFAH INDONESIA",Dunia anak_USEETV
-http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=duniaanak&bandwidth=default&sync=0
-
+===========================VIDIO+USEETV==========================
 #EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/HzZeW6tm.jpg?1" group-title="💚| HANIFAH INDONESIA",SCTV DENSTV
 http://group2-swiftservesd-1.dens.tv/s/s03/index.m3u8
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
@@ -1706,5 +1691,121 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
 #EXTINF:-1 group-title="Music", MTV WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+===========================================================================================
+
+group-title="💚| HANIFAH INDONESIA",[ID] CNN Indonesia
+http://iptv12k.com:35461/8022022301/468985/1815
+group-title="💚| HANIFAH INDONESIA",[ID] Indosiar
+http://iptv12k.com:35461/8022022301/468985/1814
+group-title="💚| HANIFAH INDONESIA",[ID] Net. TV
+http://iptv12k.com:35461/8022022301/468985/1813
+group-title="💚| HANIFAH INDONESIA",[ID] RCTI
+http://iptv12k.com:35461/8022022301/468985/1812
+group-title="💚| HANIFAH INDONESIA",[ID] SCTV
+http://iptv12k.com:35461/8022022301/468985/1811
+group-title="💚| HANIFAH INDONESIA",[ID] Trans 7
+http://iptv12k.com:35461/8022022301/468985/1810
+group-title="💚| HANIFAH INDONESIA",[ID] Trans TV
+http://iptv12k.com:35461/8022022301/468985/1809
+group-title="💚| HANIFAH INDONESIA",[ID] MNC TV
+http://iptv12k.com:35461/8022022301/468985/1808
+group-title="💚| HANIFAH INDONESIA",[ID] KiX
+http://iptv12k.com:35461/8022022301/468985/1807
+group-title="💚| HANIFAH INDONESIA",[ID] ANTV
+http://iptv12k.com:35461/8022022301/468985/1806
+group-title="💚| HANIFAH INDONESIA",[ID] TV One
+http://iptv12k.com:35461/8022022301/468985/1805
+group-title="💚| HANIFAH INDONESIA",[ID] Metro TV
+http://iptv12k.com:35461/8022022301/468985/1804
+group-title="💚| HANIFAH INDONESIA",[ID] Kompas TV
+http://iptv12k.com:35461/8022022301/468985/1803
+group-title="💚| HANIFAH INDONESIA",[ID] TVRI
+http://iptv12k.com:35461/8022022301/468985/1802
+group-title="💚| HANIFAH INDONESIA",[ID] Berita Satu
+http://iptv12k.com:35461/8022022301/468985/1801
+group-title="💚| HANIFAH INDONESIA",[ID] iNews
+http://iptv12k.com:35461/8022022301/468985/1799
+group-title="💚| HANIFAH INDONESIA",[ID] MNC Sport
+http://iptv12k.com:35461/8022022301/468985/1796
+group-title="💚| HANIFAH INDONESIA",[ID] Thrill
+http://iptv12k.com:35461/8022022301/468985/1794
+group-title="💚| HANIFAH INDONESIA",[ID] Waku-Waku Japan
+http://iptv12k.com:35461/8022022301/468985/1793
+group-title="💚| HANIFAH INDONESIA",[ID] Daai TV
+http://iptv12k.com:35461/8022022301/468985/1792
+group-title="💚| HANIFAH INDONESIA",[ID] Smithsonian Channel
+http://iptv12k.com:35461/8022022301/468985/1791
+group-title="💚| HANIFAH INDONESIA",[ID] Fight Sports
+http://iptv12k.com:35461/8022022301/468985/1788
+group-title="💚| HANIFAH INDONESIA",[ID] IDX
+http://iptv12k.com:35461/8022022301/468985/1787
+group-title="💚| HANIFAH INDONESIA",[ID] Bali TV
+http://iptv12k.com:35461/8022022301/468985/1786
+group-title="💚| HANIFAH INDONESIA",[ID] JakTV
+http://iptv12k.com:35461/8022022301/468985/1784
+group-title="💚| HANIFAH INDONESIA",[ID] JTV
+http://iptv12k.com:35461/8022022301/468985/1783
+group-title="💚| HANIFAH INDONESIA",[ID] Music TV
+http://iptv12k.com:35461/8022022301/468985/1782
+group-title="💚| HANIFAH INDONESIA",[ID] MTV Live
+http://iptv12k.com:35461/8022022301/468985/1781
+group-title="💚| HANIFAH INDONESIA",[ID] TV9 NU
+http://iptv12k.com:35461/8022022301/468985/1779
+group-title="💚| HANIFAH INDONESIA",[ID] AlQuran Kareem
+http://iptv12k.com:35461/8022022301/468985/1778
+group-title="💚| HANIFAH INDONESIA",[ID] Arirang
+http://iptv12k.com:35461/8022022301/468985/1777
+group-title="💚| HANIFAH INDONESIA",[ID] Tawaf TV
+http://iptv12k.com:35461/8022022301/468985/1776
+group-title="💚| HANIFAH INDONESIA",[ID] Fashion ONE
+http://iptv12k.com:35461/8022022301/468985/1772
+group-title="💚| HANIFAH INDONESIA",[ID] ZBioskop
+http://iptv12k.com:35461/8022022301/468985/1771
+group-title="💚| HANIFAH INDONESIA",[ID] RTV
+http://iptv12k.com:35461/8022022301/468985/1770
+group-title="💚| HANIFAH INDONESIA",[ID] Vision Prime
+http://iptv12k.com:35461/8022022301/468985/1769
+group-title="💚| HANIFAH INDONESIA",[ID] BeSmart
+http://iptv12k.com:35461/8022022301/468985/1768
+group-title="💚| HANIFAH INDONESIA",[ID] Muslim TV
+http://iptv12k.com:35461/8022022301/468985/1767
+group-title="💚| HANIFAH INDONESIA",[ID] TVMu
+http://iptv12k.com:35461/8022022301/468985/1765
+group-title="💚| HANIFAH INDONESIA",[ID] EWTN
+http://iptv12k.com:35461/8022022301/468985/1764
+group-title="💚| HANIFAH INDONESIA",[ID] Entertainment
+http://iptv12k.com:35461/8022022301/468985/1763
+group-title="💚| HANIFAH INDONESIA",[ID] OK TV
+http://iptv12k.com:35461/8022022301/468985/1762
+group-title="💚| HANIFAH INDONESIA",[ID] FMN
+http://iptv12k.com:35461/8022022301/468985/1761
+group-title="💚| HANIFAH INDONESIA",[ID] Infotainment
+http://iptv12k.com:35461/8022022301/468985/1760
+group-title="💚| HANIFAH INDONESIA",[ID] MNC Shop Trendy
+http://iptv12k.com:35461/8022022301/468985/1759
+group-title="💚| HANIFAH INDONESIA",[ID] MNC Shop Smart
+http://iptv12k.com:35461/8022022301/468985/1758
+group-title="💚| HANIFAH INDONESIA",[ID] RT English
+http://iptv12k.com:35461/8022022301/468985/1757
+group-title="💚| HANIFAH INDONESIA",[ID] TRT World
+http://iptv12k.com:35461/8022022301/468985/1756
+group-title="💚| HANIFAH INDONESIA",[ID] Fox Movies Premium
+http://iptv12k.com:35461/8022022301/468985/1753
+group-title="💚| HANIFAH INDONESIA",[ID] Fox Crime
+http://iptv12k.com:35461/8022022301/468985/1751
+group-title="💚| HANIFAH INDONESIA",[ID] Fox
+http://iptv12k.com:35461/8022022301/468985/1750
+group-title="💚| HANIFAH INDONESIA",[ID] FOX Family Movies
+http://iptv12k.com:35461/8022022301/468985/1749
+group-title="💚| HANIFAH INDONESIA",[ID] HBO
+http://iptv12k.com:35461/8022022301/468985/1748
+group-title="💚| HANIFAH INDONESIA",[ID] TvN Movies
+http://iptv12k.com:35461/8022022301/468985/1747
+group-title="💚| HANIFAH INDONESIA",[ID] HBO Family
+http://iptv12k.com:35461/8022022301/468985/1746
+group-title="💚| HANIFAH INDONESIA",[ID] HGTV
+http://iptv12k.com:35461/8022022301/468985/1744
+group-title="💚| HANIFAH INDONESIA",[ID] TLC
+http://iptv12k.com:35461/8022022301/468985/1743
 </body>
 </html>
