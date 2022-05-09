@@ -13,22 +13,6 @@ EXTM3U
 #EXTM3U# x-tvg-url="https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600"
 
 ===========================VIDIO+USEETV==========================
-#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/HzZeW6tm.jpg?1" group-title="💚| HANIFAH INDONESIA",SCTV DENSTV
-http://group2-swiftservesd-1.dens.tv/s/s03/index.m3u8
-http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
-http://nonton.wap.sh/id/009.m3u8
-https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
-http://tvn.x10.bz/xchannel/master-24.m3u8
-
-#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/QvES5wgt.png?1" group-title="💚| HANIFAH INDONESIA",SCTV S2
-http://202.150.172.35:8000/play/sctvs2
-
-#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/IFObQLK.png" group-title="💚| HANIFAH INDONESIA",[CODAY] SCTV _VIDIO
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
-
-#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/noZqG8V.jpg?2" group-title="💚| HANIFAH INDONESIA",SCTV_USEETV
-http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=sctv&bandwidth=default&sync=0
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="RCTI.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/lGMPLxim.jpg?1" group-title="💚| HANIFAH INDONESIA",RCTI
@@ -40,12 +24,38 @@ https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/665-rcti
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/noZqG8V.jpg?2" group-title="💚| HANIFAH INDONESIA",RCTI PLUS
-https://d35d0ifx19oopq.cloudfront.net/live/eds/rcti_fta/live_fta/rcti_fta.m3u8|Referer=https://www.rctiplus.com/tv/rcti
+http://27.124.85.122:443/warkoptv/jTaEamL9bA/11
+"https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/HzZeW6tm.jpg?1" group-title="💚| HANIFAH INDONESIA",SCTV DENSTV
+http://akudandia.xyz/locs/akudandia-204.m3u8
+"http://27.124.85.122:443/warkoptv/jTaEamL9bA/16
+
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/QvES5wgt.png?1" group-title="💚| HANIFAH INDONESIA",SCTV S2
+http://202.150.172.35:8000/play/sctvs2
+http://group2-swiftservesd-1.dens.tv/s/s03/index.m3u8
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+http://nonton.wap.sh/id/009.m3u8
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
+http://tvn.x10.bz/xchannel/master-24.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/IFObQLK.png" group-title="💚| HANIFAH INDONESIA",[CODAY] SCTV _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/noZqG8V.jpg?2" group-title="💚| HANIFAH INDONESIA",SCTV_USEETV
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=sctv&bandwidth=default&sync=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-name="mnctv" tvg-logo="https://i.imgur.com/HzZeW6tm.jpg?1" group-title="💚| HANIFAH INDONESIA",MNCTV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV =>2" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="💚| HANIFAH INDONESIA",MNC TV HD Backup
+http://27.124.85.122:443/warkoptv/jTaEamL9bA/12
+"https://d1akid76fpbq4x.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -66,9 +76,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-ID="Trans7.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://images.useetv.com/logo_trans7_big1.png?v=2.0.0.13" group-title="💚| HANIFAH INDONESIA",TRANS7 HD S2
-http://202.150.172.35:8000/play/trans7hds2
-#EXTINF:-1 tvg-ID="Trans7.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://images.useetv.com/logo_trans7_big1.png?v=2.0.0.13" group-title="💚| HANIFAH INDONESIA",TRANS7 S2
-http://202.150.172.35:8000/play/trans7s2
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2091843237_b744100_sleng.m3u8
+"https://streamhuawei.detik.com/gstream/smil:gstream.smil/chunklist_w1021726538_b54400_sleng.m3u8
 #EXTINF:-1 tvg-ID="Trans7.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://images.useetv.com/logo_trans7_big1.png?v=2.0.0.13" group-title="💚| HANIFAH INDONESIA",Trans7 _USEETV1
 http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=trans7&bandwidth=default&sync=0
 #EXTINF:-1 tvg-ID="Trans7.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://images.useetv.com/logo_trans7_big1.png?v=2.0.0.13" group-title="💚| HANIFAH INDONESIA",Trans7 _USEETV2
@@ -80,7 +89,8 @@ http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="transtv.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/o5JrHaN.png" group-title="💚| HANIFAH INDONESIA",TRANSTV HD S2
-http://202.150.172.35:8000/play/transtvhds2
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1022158586_b744100_sleng.m3u8
+"http://akudandia.xyz/locs/akudandia-733.m3u8
 #EXTINF:-1 tvg-id="transtv.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/o5JrHaN.png" group-title="💚| HANIFAH INDONESIA",TRANSTV S2
 http://202.150.172.35:8000/play/transtvs2
 #EXTINF:-1 tvg-id="transtv.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/o5JrHaN.png" group-title="💚| HANIFAH INDONESIA", TransTV _USEETV 
