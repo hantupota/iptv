@@ -1703,10 +1703,12 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 ===========================================================================================
 ######LIVE CCTV#####
-
+#EXTVLCOPT:http-user-agent=MXPlayer/1.39.13 (Linux; Android 5.1.1; in-ID; Lenovo PB1-770M Build/PB1-770M_S000409_160923_ROW)
+#EXTINF:0 group-title="LIVE CCTV", GatsuLingkar (BANDUNG)
+http://45.118.114.26/camera/GatsuLingkar.m3u8
 #EXTVLCOPT:http-user-agent=MXPlayer/1.39.13 (Linux; Android 5.1.1; in-ID; Lenovo PB1-770M Build/PB1-770M_S000409_160923_ROW)
 #EXTINF:0 group-title="LIVE CCTV", LASWI (BANDUNG)
-http://45.118.114.26/camera/Laswi.m3u8
+http://45.118.114.26/camera/Laswi.m3u8http://45.118.114.26/camera/GatsuLingkar.m3u8
 #EXTVLCOPT:http-user-agent=MXPlayer/1.39.13 (Linux; Android 5.1.1; in-ID; Lenovo PB1-770M Build/PB1-770M_S000409_160923_ROW)
 #EXTINF:0 group-title="LIVE CCTV", BATU NUNGGAL (BANDUNG)
 http://45.118.114.26/camera/Batununggal.m3u8
