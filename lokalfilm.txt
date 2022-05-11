@@ -1702,17 +1702,29 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:-1 group-title="Music", MTV WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 ===========================================================================================
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lGMPLxil.jpg?1" group-title="CCTV",CCTV TOL PASTEUR
+######LIVE CCTV#####
+
+#EXTVLCOPT:http-user-agent=MXPlayer/1.39.13 (Linux; Android 5.1.1; in-ID; Lenovo PB1-770M Build/PB1-770M_S000409_160923_ROW)
+#EXTINF:0 group-title="LIVE CCTV", LASWI (BANDUNG)
+http://45.118.114.26/camera/Laswi.m3u8
+#EXTVLCOPT:http-user-agent=MXPlayer/1.39.13 (Linux; Android 5.1.1; in-ID; Lenovo PB1-770M Build/PB1-770M_S000409_160923_ROW)
+#EXTINF:0 group-title="LIVE CCTV", BATU NUNGGAL (BANDUNG)
+http://45.118.114.26/camera/Batununggal.m3u8
+#EXTVLCOPT:http-user-agent=MXPlayer/1.39.13 (Linux; Android 5.1.1; in-ID; Lenovo PB1-770M Build/PB1-770M_S000409_160923_ROW)
+#EXTINF:0 group-title="LIVE CCTV", CIBADUYUT (BANDUNG)
+http://45.118.114.26/camera/Cibaduyut.m3u8
+#EXTVLCOPT:http-user-agent=MXPlayer/1.39.13 (Linux; Android 5.1.1; in-ID; Lenovo PB1-770M Build/PB1-770M_S000409_160923_ROW)
+#EXTINF:0 group-title="LIVE CCTV", TOL PASTEUR (BANDUNG)
 http://45.118.114.26/camera/TolPasteur.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lGMPLxil.jpg?1" group-title="CCTV",CCTV SP Gedebage
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lGMPLxil.jpg?1" group-title="LIVE CCTV",CCTV SP Gedebage
 http://45.118.114.26/camera/Gedebage.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lGMPLxil.jpg?1" group-title="CCTV",CCTV SP PASAR CARINGIN
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lGMPLxil.jpg?1" group-title="LIVE CCTV",CCTV SP PASAR CARINGIN
 http://45.118.114.26/camera/PasarCaringin.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lGMPLxil.jpg?1" group-title="CCTV",CCTV SP BUAHBATU
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lGMPLxil.jpg?1" group-title="LIVE CCTV",CCTV SP BUAHBATU
 http://45.118.114.26/camera/Buahbatu.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lGMPLxil.jpg?1" group-title="CCTV",CCTV IP PASIR KALIKI
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lGMPLxil.jpg?1" group-title="LIVE CCTV",CCTV IP PASIR KALIKI
 http://45.118.114.26/camera/PasirKalikiIP.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lGMPLxil.jpg?1" group-title="CCTV",CCTV CICAHEUM
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lGMPLxil.jpg?1" group-title="LIVE CCTV",CCTV CICAHEUM
 http://45.118.114.26/camera/Cicaheum.m3u8
 </body>
 </html>
