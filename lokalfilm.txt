@@ -24,7 +24,7 @@ https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/665-rcti
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/noZqG8V.jpg?2" group-title="💚| HANIFAH INDONESIA",RCTI PLUS
-http://27.124.85.122:443/warkoptv/jTaEamL9bA/11
+http://203.77.246.50:5000/udp/239.1.3.80:5000
 "https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.imgur.com/HzZeW6tm.jpg?1" group-title="💚| HANIFAH INDONESIA",SCTV DENSTV
