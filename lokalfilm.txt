@@ -1702,31 +1702,96 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:-1 group-title="Music", MTV WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 ===========================================================================================
-######LIVE CCTV#####
+###### LIVE CCTV DISHUB BANDUNG #####
 #EXTVLCOPT:http-user-agent=MXPlayer/1.39.13 (Linux; Android 5.1.1; in-ID; Lenovo PB1-770M Build/PB1-770M_S000409_160923_ROW)
-#EXTINF:0 group-title="LIVE CCTV", GatsuLingkar (BANDUNG)
-http://45.118.114.26/camera/GatsuLingkar.m3u8
-#EXTVLCOPT:http-user-agent=MXPlayer/1.39.13 (Linux; Android 5.1.1; in-ID; Lenovo PB1-770M Build/PB1-770M_S000409_160923_ROW)
-#EXTINF:0 group-title="LIVE CCTV", LASWI (BANDUNG)
-http://45.118.114.26/camera/Laswi.m3u8http://45.118.114.26/camera/GatsuLingkar.m3u8
-#EXTVLCOPT:http-user-agent=MXPlayer/1.39.13 (Linux; Android 5.1.1; in-ID; Lenovo PB1-770M Build/PB1-770M_S000409_160923_ROW)
-#EXTINF:0 group-title="LIVE CCTV", BATU NUNGGAL (BANDUNG)
-http://45.118.114.26/camera/Batununggal.m3u8
-#EXTVLCOPT:http-user-agent=MXPlayer/1.39.13 (Linux; Android 5.1.1; in-ID; Lenovo PB1-770M Build/PB1-770M_S000409_160923_ROW)
-#EXTINF:0 group-title="LIVE CCTV", CIBADUYUT (BANDUNG)
-http://45.118.114.26/camera/Cibaduyut.m3u8
-#EXTVLCOPT:http-user-agent=MXPlayer/1.39.13 (Linux; Android 5.1.1; in-ID; Lenovo PB1-770M Build/PB1-770M_S000409_160923_ROW)
-#EXTINF:0 group-title="LIVE CCTV", TOL PASTEUR (BANDUNG)
-http://45.118.114.26/camera/TolPasteur.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lGMPLxil.jpg?1" group-title="LIVE CCTV",CCTV SP Gedebage
-http://45.118.114.26/camera/Gedebage.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lGMPLxil.jpg?1" group-title="LIVE CCTV",CCTV SP PASAR CARINGIN
-http://45.118.114.26/camera/PasarCaringin.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lGMPLxil.jpg?1" group-title="LIVE CCTV",CCTV SP BUAHBATU
-http://45.118.114.26/camera/Buahbatu.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lGMPLxil.jpg?1" group-title="LIVE CCTV",CCTV IP PASIR KALIKI
-http://45.118.114.26/camera/PasirKalikiIP.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lGMPLxil.jpg?1" group-title="LIVE CCTV",CCTV CICAHEUM
-http://45.118.114.26/camera/Cicaheum.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Samsat
+http://45.118.114.26:80/camera/Samsat.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP BUAH BATU
+http://45.118.114.26:80/camera/Buahbatu.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Batununggal
+http://45.118.114.26:80/camera/Batununggal.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Moch. Toha
+http://45.118.114.26:80/camera/MochToha.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Kopo
+http://45.118.114.26:80/camera/Kopo.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Pasar Caringin
+http://45.118.114.26:80/camera/PasarCaringin.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Pasir Koja
+http://45.118.114.26:80/camera/PasirKoja.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Cibeureum
+http://45.118.114.26:80/camera/Cibeureum.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Jamika
+http://45.118.114.26:80/camera/Jamika.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Gardujati
+http://45.118.114.26:80/camera/Gardujati.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Otista
+http://45.118.114.26:80/camera/Otista.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Tamblong
+http://45.118.114.26:80/camera/Tamblong.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Lima
+http://45.118.114.26:80/camera/SimpangLima.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Gudang Utara
+http://45.118.114.26:80/camera/GudangUtara.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP A.Yani Laswi
+http://45.118.114.26:80/camera/Laswi.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP A Yani Supratman
+http://45.118.114.26:80/camera/Supratman.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Tol Pasteur
+http://45.118.114.26:80/camera/TolPasteur.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Pasir Kaliki
+http://45.118.114.26:80/camera/PasirKalikiIP.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Cipaganti
+http://45.118.114.26:80/camera/Cipaganti.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Cipaganti2
+http://45.118.114.26:80/camera/Cipaganti2.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Cihampelas
+http://45.118.114.26:80/camera/CihampelasPTZ.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Tamansari
+http://45.118.114.26:80/camera/Tamansari.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Cikapayang
+http://45.118.114.26:80/camera/Cikapayang1.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Sulanjana
+http://45.118.114.26:80/camera/Sulanjana.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Merdeka Juanda
+http://45.118.114.26:80/camera/MerdekaJuanda.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Telkom
+http://45.118.114.26:80/camera/Telkom.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Pahlawan
+http://45.118.114.26:80/camera/Pahlawan.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Trunojoyo
+http://45.118.114.26:80/camera/Trunojoyo.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Banda
+http://45.118.114.26:80/camera/Banda.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Lombok
+http://45.118.114.26:80/camera/Lombok.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Cihapit
+http://45.118.114.26:80/camera/Cihapit.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Aceh
+http://45.118.114.26:80/camera/Aceh.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Anggrek
+http://45.118.114.26:80/camera/Anggrek.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Cikutra
+http://45.118.114.26:80/camera/Cikutra.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Cimuncang
+http://45.118.114.26:80/camera/Cimuncang.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Cicaheum
+http://45.118.114.26:80/camera/Cicaheum.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",SP Ujung Berung
+http://45.118.114.26:80/camera/	UjungBerung.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",Ruas Trunojoyo - Banda
+http://45.118.114.26:80/camera/Ruastrunojoyo.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",Ruas banda - Trunojoyo
+http://45.118.114.26:80/camera/Ruasbanda.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",Ruas Banda - Istiqomah
+http://45.118.114.26:80/camera/Ruasbandaistiqomah.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",Ruas Istiqomah - Banda
+http://45.118.114.26:80/camera/Ruasistiqomahbanda.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",Ruas Istiqomah - Cihapit
+http://45.118.114.26:80/camera/	Ruasistiqomahcihapit.m3u8	
+#EXTINF:0, tvg-logo="" group-title="Bandung",Ruas Sudirman - Otista
+http://45.118.114.26:80/camera/Ruasotista.m3u8
+#EXTINF:0, tvg-logo="" group-title="Bandung",Ruas Sudirman - Gardujati
+http://45.118.114.26:80/camera/Ruasotista.m3u8
+
 </body>
 </html>
