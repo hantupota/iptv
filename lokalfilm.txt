@@ -1704,94 +1704,95 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 ===========================================================================================
 ###### LIVE CCTV DISHUB BANDUNG #####
 #EXTVLCOPT:http-user-agent=MXPlayer/1.39.13 (Linux; Android 5.1.1; in-ID; Lenovo PB1-770M Build/PB1-770M_S000409_160923_ROW)
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Samsat
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Samsat
 http://45.118.114.26:80/camera/Samsat.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP BUAH BATU
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP BUAH BATU
 http://45.118.114.26:80/camera/Buahbatu.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Batununggal
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Batununggal
 http://45.118.114.26:80/camera/Batununggal.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Moch. Toha
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Moch. Toha
 http://45.118.114.26:80/camera/MochToha.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Kopo
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Kopo
 http://45.118.114.26:80/camera/Kopo.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Pasar Caringin
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Pasar Caringin
 http://45.118.114.26:80/camera/PasarCaringin.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Pasir Koja
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Pasir Koja
 http://45.118.114.26:80/camera/PasirKoja.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Cibeureum
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Cibeureum
 http://45.118.114.26:80/camera/Cibeureum.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Jamika
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Jamika
 http://45.118.114.26:80/camera/Jamika.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Gardujati
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Gardujati
 http://45.118.114.26:80/camera/Gardujati.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Otista
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Otista
 http://45.118.114.26:80/camera/Otista.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Tamblong
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Tamblong
 http://45.118.114.26:80/camera/Tamblong.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Lima
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Lima
 http://45.118.114.26:80/camera/SimpangLima.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Gudang Utara
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Gudang Utara
 http://45.118.114.26:80/camera/GudangUtara.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP A.Yani Laswi
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP A.Yani Laswi
 http://45.118.114.26:80/camera/Laswi.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP A Yani Supratman
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP A Yani Supratman
 http://45.118.114.26:80/camera/Supratman.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Tol Pasteur
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Tol Pasteur
 http://45.118.114.26:80/camera/TolPasteur.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Pasir Kaliki
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Pasir Kaliki
 http://45.118.114.26:80/camera/PasirKalikiIP.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Cipaganti
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Cipaganti
 http://45.118.114.26:80/camera/Cipaganti.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Cipaganti2
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Cipaganti2
 http://45.118.114.26:80/camera/Cipaganti2.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Cihampelas
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Cihampelas
 http://45.118.114.26:80/camera/CihampelasPTZ.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Tamansari
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Tamansari
 http://45.118.114.26:80/camera/Tamansari.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Cikapayang
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Cikapayang
 http://45.118.114.26:80/camera/Cikapayang1.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Sulanjana
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Sulanjana
 http://45.118.114.26:80/camera/Sulanjana.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Merdeka Juanda
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Merdeka Juanda
 http://45.118.114.26:80/camera/MerdekaJuanda.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Telkom
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Telkom
 http://45.118.114.26:80/camera/Telkom.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Pahlawan
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Pahlawan
 http://45.118.114.26:80/camera/Pahlawan.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Trunojoyo
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Trunojoyo
 http://45.118.114.26:80/camera/Trunojoyo.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Banda
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Banda
 http://45.118.114.26:80/camera/Banda.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Lombok
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Lombok
 http://45.118.114.26:80/camera/Lombok.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Cihapit
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Cihapit
 http://45.118.114.26:80/camera/Cihapit.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Aceh
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Aceh
 http://45.118.114.26:80/camera/Aceh.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Anggrek
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Anggrek
 http://45.118.114.26:80/camera/Anggrek.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Cikutra
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Cikutra
 http://45.118.114.26:80/camera/Cikutra.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Cimuncang
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Cimuncang
 http://45.118.114.26:80/camera/Cimuncang.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Cicaheum
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Cicaheum
 http://45.118.114.26:80/camera/Cicaheum.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",SP Ujung Berung
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",SP Ujung Berung
 http://45.118.114.26:80/camera/	UjungBerung.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",Ruas Trunojoyo - Banda
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",Ruas Trunojoyo - Banda
 http://45.118.114.26:80/camera/Ruastrunojoyo.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",Ruas banda - Trunojoyo
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",Ruas banda - Trunojoyo
 http://45.118.114.26:80/camera/Ruasbanda.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",Ruas Banda - Istiqomah
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",Ruas Banda - Istiqomah
 http://45.118.114.26:80/camera/Ruasbandaistiqomah.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",Ruas Istiqomah - Banda
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",Ruas Istiqomah - Banda
 http://45.118.114.26:80/camera/Ruasistiqomahbanda.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",Ruas Istiqomah - Cihapit
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",Ruas Istiqomah - Cihapit
 http://45.118.114.26:80/camera/	Ruasistiqomahcihapit.m3u8	
-#EXTINF:0, tvg-logo="" group-title="Bandung",Ruas Sudirman - Otista
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",Ruas Sudirman - Otista
 http://45.118.114.26:80/camera/Ruasotista.m3u8
-#EXTINF:0, tvg-logo="" group-title="Bandung",Ruas Sudirman - Gardujati
+#EXTINF:0, tvg-logo="" group-title="CCTV Bandung",Ruas Sudirman - Gardujati
 http://45.118.114.26:80/camera/Ruasotista.m3u8
+
 
 </body>
 </html>
