@@ -91,7 +91,7 @@
 *.broker-iqoption.com
 
 *.iqoption.co.th
-
+*.iqtrading.asia
 *.iqoptions.co
 
 *.iq-options.com
