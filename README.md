@@ -6,25 +6,17 @@
 **[https://github.com/EnergizedProtection/block](github.com/EnergizedProtection/block "github.com/EnergizedProtection/block")** ad.porn.malware blocking
 
 # denylist
-*.lazada.co.id
+*.tube8vip.com
 
-*.internetdownloadmanager.com
+*.mobilelegends.com
+
+*.sina.cn
+
+*.android.com
+
+*.accuweather.com
 
 *.palmplaystore.com
-
-*.sto.shopee.io
-
-*.shopee.io
-
-*.shopeemobile.com
-
-*.shopee.co.id
-
-*.tokopedia.net
-
-*.tokopedia.com
-
-*.play.google.com
 
 *.oppomobile.com
 
@@ -34,7 +26,47 @@
 
 *.garena.com
 
+*.lazada.co.id
+
+*.sto.shopee.io
+
+*.shopee.io
+
+*.shopeemobile.com
+
+*.shopee.co.id
+
+*.tokopedia.com
+
+*.tokopedia.net
+
+*.play.google.com
+
 ## allowlist
+
+*.cloudskillsboost.google
+
+*.lanzoug.com
+
+*.developer.lanzoug.com
+
+*.greasyfork.org
+
+*.whatsapp.com
+
+*.web.whatsapp.com
+
+*.tiar.app
+
+*.doh.tiar.app
+
+*.t.imgur.com
+
+*.imgur.com
+
+*.gitlab.com
+
+*.binomo.com
 
 *.zippyshare.com
 
@@ -91,7 +123,7 @@
 *.broker-iqoption.com
 
 *.iqoption.co.th
-*.iqtrading.asia
+
 *.iqoptions.co
 
 *.iq-options.com
@@ -99,6 +131,8 @@
 *.iq-option.com
 
 *.banking.trading
+
+*.iqtrading.asia
 
 *.cdnroute.io
 
@@ -109,6 +143,8 @@
 *.dens.tv
 
 *.verspective.net
+
+
 
 [**http://tokoseo.me**](http://tokoseo.me/)
 
@@ -125,14 +161,14 @@ berikut cara upload produk di shopee bisa lihat di link berikut https://seller.s
 
 \-Formulir tersebut bersifat pengajuan dengan estimasi proses pengecekan 3-5 hari kalender  
 \-Mohon menunggu konfirmasi melalui email terkait pengajuan tersebut  
-**Pengajuan akan diproses apabila kamu telah menyelesaikan pengiriman dengan jasa kirim yang terintegrasi oleh Shopee atau jika sudah minimal melakukan 1 kali penjualan** 
+**Pengajuan akan diproses apabila kamu telah menyelesaikan pengiriman dengan jasa kirim yang terintegrasi oleh Shopee atau jika sudah minimal melakukan 1 kali penjualan** 
 
 **3\. Atur Jasa Kirim Toko**  
 aku sarankan jika kakak menjual produk non fisik kakak mengaktifkan jasa kirim Pos Indonesia, JNE, atau J&T Express ya kak. Pastikan juga tidak mengaktifkan metode COD  
 berikut cara atur jasa kirim toko dan produk di Shopee https://seller.shopee.co.id/edu/article/3536
 
 **4\. Saat sudah ada pesanan, dan Jika sudah input nomor resi (atur pengiriman),** maka perlu ubah status pesanan ke tab dikirim agar pembeli bisa klik pesanan di terima dan kakak menerima pelepasan dana dari pembeli, (jika belum memiliki fitur termasuk ongkos kirim)  
-Untuk perubahan status pesanan ke tab dikirim kakak perlu hubungi Shopee dengan melampirkan bukti   
+Untuk perubahan status pesanan ke tab dikirim kakak perlu hubungi Shopee dengan melampirkan bukti   
 \- nomor pesanan  
 \- bukti pembeli sudah terima pesanan di fitur chat Shopee  
 \- email aktif
