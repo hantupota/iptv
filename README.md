@@ -1,5 +1,5 @@
 # a crossplatform free iptv/stream player
-
+Block ads, trackers and malicious websites on all your devices.
 ![](https://raw.githubusercontent.com/hantupota/iptv/main/ivptv.webp)
 
 **[https://my.nextdns.io](https://my.nextdns.io "https://my.nextdns.io")**
@@ -8,7 +8,6 @@
 
 **[https://github.com/EnergizedProtection/block](github.com/EnergizedProtection/block "github.com/EnergizedProtection/block")
 
-** ad.porn.malware blocking
 
 # denylist
 *.tube8vip.com
